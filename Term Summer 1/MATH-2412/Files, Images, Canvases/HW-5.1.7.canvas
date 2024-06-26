@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"5be86fab05a0bd34","type":"text","text":"$\\csc x-\\csc x\\cos^2 x=\\sin x$","x":-200,"y":-180,"width":250,"height":60},
+		{"id":"1a2d73b496ed2b8e","type":"text","text":"$\\csc x(1-\\cos^2x)=\\sin x$","x":-200,"y":-72,"width":250,"height":60},
+		{"id":"c48edc96b0ab4a15","type":"text","text":"$\\csc x(\\sin^2x)=\\sin x$","x":-200,"y":35,"width":250,"height":60},
+		{"id":"e068238491bb17fa","type":"text","text":"$\\frac{\\sin^2x}{\\sin x}=\\sin x$","x":-200,"y":140,"width":250,"height":60},
+		{"id":"74f592d0de8eb2ed","type":"text","text":"Factor out the __GCF__, which in this case is $\\csc x$","x":151,"y":-180,"width":250,"height":95},
+		{"id":"87540b664800b10c","type":"text","text":"Use the Pythagorean Identity![[Pythagorean Identities#^ff3cac]]","x":151,"y":-42,"width":269,"height":165},
+		{"id":"c7da1422e571ca34","type":"text","text":"Apply a Reciprocal Identity![[Reciprocal Identities#^f69b89]] and multiply.","x":151,"y":170,"width":269,"height":200},
+		{"id":"8fb7e86021330d76","type":"text","text":"$\\sin x=\\sin x$","x":-200,"y":240,"width":250,"height":60},
+		{"id":"bcd31c463de036fe","type":"text","text":"Divide out the common factor","x":151,"y":420,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6146243cf0eab2e3","fromNode":"5be86fab05a0bd34","fromSide":"bottom","toNode":"1a2d73b496ed2b8e","toSide":"top"},
+		{"id":"43332e58c6e41623","fromNode":"74f592d0de8eb2ed","fromSide":"left","toNode":"1a2d73b496ed2b8e","toSide":"right"},
+		{"id":"3ab0701abdc614fd","fromNode":"1a2d73b496ed2b8e","fromSide":"bottom","toNode":"c48edc96b0ab4a15","toSide":"top"},
+		{"id":"c9dba98af1759b07","fromNode":"87540b664800b10c","fromSide":"left","toNode":"c48edc96b0ab4a15","toSide":"right"},
+		{"id":"af90ced15a752c34","fromNode":"c48edc96b0ab4a15","fromSide":"bottom","toNode":"e068238491bb17fa","toSide":"top"},
+		{"id":"f9a65a589b58db6d","fromNode":"c7da1422e571ca34","fromSide":"left","toNode":"e068238491bb17fa","toSide":"right"},
+		{"id":"471858dbe844ce8f","fromNode":"e068238491bb17fa","fromSide":"bottom","toNode":"8fb7e86021330d76","toSide":"top"},
+		{"id":"cb886e166754173d","fromNode":"bcd31c463de036fe","fromSide":"left","toNode":"8fb7e86021330d76","toSide":"right"}
+	]
+}

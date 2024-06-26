@@ -152,3 +152,9 @@ For example it might look like this:
 8. Restart Obsidian
 9. Make edits to your notes
 10. Publish your notes run the command “Obsidian Git: Create backup” by opening the command palette (CMD/Ctrl + P)
+
+![[Pasted image 20240626164849.png]]
+
+If this occurs, go to the cmd of your git install
+`C:\Program Files\Git\git-cmd.exe`
+and run the commands in the pic above
