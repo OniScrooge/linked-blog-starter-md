@@ -1,0 +1,1 @@
+A potential vote during a debate. A debate has a unlimited amount of time that can be dedicated to it, but if cloture is voted for by a three-fifths majority of the senators then it is limited to 30 hours.

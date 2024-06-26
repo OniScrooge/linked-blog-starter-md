@@ -1,0 +1,1 @@
+Exact value is **where you cannot estimate the value you must be precise**, eg; you can't estimate something as being around about 5 centimeters; no you need an exact value such as 5.62.

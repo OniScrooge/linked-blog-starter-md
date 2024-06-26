@@ -1,0 +1,57 @@
+- Ways to develop a cause and effect essay:
+	- You can show several causes that will lead to one or more effects.
+	- You can show an equal amount of causes and effects.
+- Components:
+	- Written in Formal Tone(No I, me, my, instead from the outside perspective)
+	- Length will be 3-4 pages double spaced or 750-1000 words
+	- 7 or more paragraphs
+	- Must include a [[Background Statement]] as well as at least one [[Expansion Paragraph]].
+	- MLA style for secondary or library resources.
+- Example:
+	- Topic(cause): "How millenials/post-millenials are impacted by Covid"
+	- Consider what happens as a result of the cause such as:
+		- Individual health
+		- Family welfare
+		- Community health
+- Rough outline for essay based on Covid:
+	- Introduction
+	- [[Background Statement]]
+	- Individual Health
+	- Family Welfare
+	- Community strategies
+	- Social & Political pushback
+	- Conclusion: Prediction, quotes, your commentary, interpretation of the events so far.
+- Topic list:
+	- Gender rights
+	- Vaping
+	- Reality TV
+	- Wealth
+	- Student debt
+	- Longest war in America
+	- Fame
+	- LGBTQIA rights
+	- Me too movement
+	- BLM
+	- Mass shootings
+	- Digital media
+	- Climate change
+	- Domestic Terrorism
+	- American Political Divide
+	- Abortion
+	- Covid Vaccinations
+	- Voting rights
+	- Social Media effects
+	- Media influence
+	- Sex, violence, etc in media
+	- Alcoholism
+	- Race relations
+	- Stress/Anxiety
+	- Mental Disorders
+	- AIDS/HIV
+	- Cancer
+	- Cyberbully
+	- Effects of Legalizing Marijuana
+
+Sources: Cause and Effect PowerPoint
+
+![[Millennials vs Post-Millennials.jpg]]

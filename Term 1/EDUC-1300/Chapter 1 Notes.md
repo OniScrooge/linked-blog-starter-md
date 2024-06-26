@@ -1,0 +1,36 @@
+- Thrive meaning:
+	- Going beyond the minimum requirements to meet and exceed goals.
+	- Discovering talents and abilities.
+	- Deriving self-satisfaction, self-esteem, and pleasure.
+- College success courses:
+	- Increase likelihood of college success.
+	- Increase student involvement in campus orginizations, activities, interactions.
+	- Prepare students to make better choices in college.
+- Types of students:
+	- Traditional & non-traditional
+	- Veterans
+	- International
+	- Part-time
+	- Peer leaders
+- College value:
+	- Enable social mobility and merit based evaluation.
+	- Improve earning potential.
+	- Increase employment likelihood.
+- Defining Success:
+	- Identify your personal strengths.
+	- Ask yourself tough questions.
+	- Establish goals for this day, week, year, and beyond.
+- S.M.A.R.T:
+	- Specific - Have a specific goal.
+	- Measurable - Have a way to measure progress and success.
+	- Attainable - Have a realistic goal.
+	- Relevant - Ensure it matters to you and what you want to do.
+	- Time - Choose goals that are within your timetable.
+- Locus of control:
+	- Internal & External
+	- Exercise maximum control over you own life by freely making choices.
+	- An active view rather than a passive view of self.
+- Guided Pathways:
+	- A proscribed set of courses leading to certain majors and degrees.
+	- Based on information about whether students will be more or less likely to complete courses successfully.
+	- Pathways may help you save time, money, and energy by choosing courses that are right for you.

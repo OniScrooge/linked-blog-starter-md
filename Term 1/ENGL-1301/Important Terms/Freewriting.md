@@ -1,0 +1,1 @@
+Writing without worrying about punctuation, grammar, spelling, and background.

@@ -1,0 +1,7 @@
+- The Guideline for Verifying Identities:
+	- Work on only one side!!! Generally you will start with the more complicated side and simplify to look like the other side.
+	- Look to see if you can use the Fundamental Identities.
+	- Rewrite everything in terms of SINEs and COSINEs
+	- Factor out the [[Greatest Common Factor]]
+	- Separate single term quotient into two terms: $$\frac{a+b}c = \frac{a}c + \frac{b}c$$
+	- Combine fractional expressions using the [[Least Common Denominator]]

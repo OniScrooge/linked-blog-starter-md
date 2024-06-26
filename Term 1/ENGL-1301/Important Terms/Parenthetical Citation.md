@@ -1,0 +1,1 @@
+A parenthetical citation **gives credit in parentheses to a source that you're quoting or paraphrasing**. It provides relevant information such as the author's name, the publication date, and the page number(s) cited.

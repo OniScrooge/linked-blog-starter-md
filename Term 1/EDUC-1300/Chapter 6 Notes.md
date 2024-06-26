@@ -1,0 +1,62 @@
+- Active reading:
+	- Previewing - taking a first look at your assigned reading before you really tackle the content.
+		- Purpose is to set the big picture.
+		- Strategies include:
+			- Mapping - Draw a branching structure to show relationships between main and secondary ideas.
+			- Outlining - Provides as step-by-step visual image. Make an outline of headings and subheadings in the chapter.
+			- Listing - Effective for dealing with many new terms and definitions. Utilize chunking and set up terms in the left column and fill in definitions, descriptions, and examples on the right.
+			- Flash cards - Create portable test questions with a small term on the front and an answer of definition on the back.
+	- Marking - Focus and concentration technique that employs using your Previewing steps to guide you and highlighting, annotating, and underlining as you go.
+	- Reading with concentration:
+		- Find a quiet place to study.
+		- Muting or turning off electronic devices.
+		- Reading in blocks of time, with short breaks.
+	- Reviewing - Looking through your assigned reading again to improve retention:
+		- Use your senses as you review.
+		- Recite aloud.
+		- Ticking off each item on a list on your fingers.
+- Monitor you reading:
+	- Ask yourself:
+		- Do I understand this?
+		- What are the key ideas?
+		- Will I see this on the test?
+	- After each question, try to guess what information will be presented next.
+- Develop your vocabulary:
+	- Notice and write down unfamiliar terms while you preview a text.
+	- Think about the context when you come across challenging words.
+	- Consider a word's parts.
+- If you fall behind:
+	- Add one or two hours a day to your study time.
+	- Talk to your instructor.
+	- Don't give up without clear reason.
+- Reading textbooks:
+	- Read sections at the beginning to learn more about the author and book structure.
+	- Not all textbooks are equal.
+		- Different disciplines cand differ in organization and style of writing.
+		- Textbooks may not provide all the information you want to know. Consider outside sources.
+- Math texts:
+	- Many symbols, few words.
+	- Material presented through definitions, theorems, and sample problems.
+	- Work on sample problems and exercises.
+- Science texts:
+	- Approach depends on whether the text is math, or text based.
+	- Study learning objectives and summaries.
+	- Review table of contents, glossary, and appendices.
+- Social Sciences & Humanities texts:
+	- Social Sciences:
+		- Many special terms specific to a particular field of study.
+		- Includes differences of opinions or perspectives.
+	- Humanities:
+		- Provide facts, examples, opinions, and original material such as stories or essays.
+		- Important central themes and characters.
+- Supplementary:
+	- Learn more about a topic by reading primary and supplementary sources referenced in each chapter.
+	- Includes journal articles, research papers, and essays.
+	- Often has concepts familiar only to scholars.
+- E-books:
+	- Pros:
+		- Portable library of books.
+		- Can be read anywhere.
+	- Cons:
+		- Limited access to some material.
+		- Can cause eye fatigue.

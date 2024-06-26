@@ -1,0 +1,1 @@
+The Greek word páthos means "**experience, misfortune, emotion, condition**,” and comes from Greek path-, meaning “experience, undergo, suffer.” In English, pathos usually refers to the element in an experience or in an artistic work that makes us feel compassion, pity, or sympathy.

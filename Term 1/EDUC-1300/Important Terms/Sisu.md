@@ -1,0 +1,1 @@
+Going beyond one's mental or physical ability, taking action even when things are difficult, and displaying courage and determination in the face of challenge and repeated failures.

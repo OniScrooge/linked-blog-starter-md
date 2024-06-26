@@ -1,0 +1,1 @@
+Arriving, or appearing, at the expected time for an event or obligation.

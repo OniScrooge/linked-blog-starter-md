@@ -1,0 +1,1 @@
+When a party controls the legislature and typically redraws the boundaries in a way that favors candidates of its party.

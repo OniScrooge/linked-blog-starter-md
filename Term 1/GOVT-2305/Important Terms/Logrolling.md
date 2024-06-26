@@ -1,0 +1,1 @@
+The process of trading votes, or favors, in exchange for other votes or favors to ensure that everyone gets what they want.

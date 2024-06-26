@@ -1,0 +1,1 @@
+Submitting the same piece of work for multiple courses, such as a research paper or essay.

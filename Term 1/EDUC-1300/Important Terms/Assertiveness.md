@@ -1,0 +1,1 @@
+Standing up for ones self, without going overboard with it.

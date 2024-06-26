@@ -1,0 +1,1 @@
+The least common denominator (LCD) is **the smallest number divisible by all denominators of the given set of fractions**. It is the smallest number among the common multiples of the denominators. In simple words, LCD is the LCM of the denominators of the given fractions.

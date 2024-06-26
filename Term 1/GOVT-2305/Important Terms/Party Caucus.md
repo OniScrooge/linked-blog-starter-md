@@ -1,0 +1,1 @@
+When members of a political party meet periodically in a closed session to plan strategies, develop issues, and resolve policy differences.

@@ -1,0 +1,53 @@
+- Engagement:
+	- Makes students more enthusiastic and increases learning.
+- Active learner:
+	- Talk with others.
+	- Ask questions in class.
+	- Seek out information beyond lecture material and required reading.
+- Class preparation:
+	- Do the assigned reading.
+	- Pay careful attention to your course syllabus.
+	- Make use of additional materials.
+	- Warm up for class.
+	- Get organized.
+- Cornell Format:
+	- Create a "Recall" column.
+	- Write only in wider column as you take notes.
+	- Use the recall column for main ideas and important details when going back through notes.
+- Outline Format:
+	- Roman Numerals for main ideas.
+	- Uppercase letters for ideas related to main ideas.
+	- Arabic Numerals and then lowercase letters for descending levels.
+- Paragraph Format:
+	- Write summary paragraphs as you take notes.
+	- Might not work well for class notes because it's difficult to summarize a topic until your instructor has covered it completely.
+- List Format:
+	- List terms and definitions.
+	- List facts.
+	- List sequences.
+	- This method is easy to use with Cornell Format.
+- Note-taking techniques:
+	- Identify main ideas.
+	- Don't write down everything.
+	- Don't be thrown by a disorganized lecture.
+- Non-lecture Note-taking:
+	- Record information presented by both the instructor and classmates.
+	- Consider all reasonable ideas.
+	- Organize notes based on the purpose or form of discussion.
+- Math notes:
+	- Write down equations, formulas, diagrams, charts, graphs, & definitions.
+	- Write instructor's words precisely.
+	- Write down all worked problems and examples step-by-step.
+- Forgetting curve:
+	- Defined as the decline of memory over time.
+	- Most information forgotten within 24 hours.
+	- Good idea to write down main ideas, repeat your ideas aloud, review notes from previous class before next session.
+- Compare notes:
+	- Increase probability of better notes.
+	- Test if notes are clear and organized.
+	- Find agreeance on the important points.
+- Class notes & Homework:
+	- Do a warm-up for your homework.
+	- Do any assigned problems and answer any assigned questions.
+	- Don't give up too soon.
+	- Complete your work.

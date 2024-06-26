@@ -1,0 +1,1 @@
+Means it has two chambers, the House and the Senate.

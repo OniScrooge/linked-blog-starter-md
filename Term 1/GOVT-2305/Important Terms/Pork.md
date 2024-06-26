@@ -1,0 +1,1 @@
+A term that refers to the goods that officials used public funding to purchase and distribute to areas in which they wanted higher votes, or reinforce loyalty.

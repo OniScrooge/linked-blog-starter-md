@@ -1,0 +1,12 @@
+TEMPLATE:
+
+Author. "Title." Title of container (self contained if book), Other contributors (translators or 	editors), Version (edition), Number (vol. and/or no.), Publisher, Publication Date, Location 	(pages, paragraphs and/or URL, DOI or permalink). 2nd container’s title, Other 	contributors, Version, Number, Publisher, Publication date, Location, Date of Access (if 	applicable)
+
+BLShipple. Steven F. Hipple. Self-employment in the United States. Lauren A. Hammond, 	March 2016, https://www.bls.gov/spotlight/2016/self-employment-in-the-united-	states/home.htm, 10 15 2023
+
+FederalTax. Federal Tax Revenue by Source, 1934 - 2018. November 2013, 	https://taxfoundation.org/data/all/federal/federal-tax-revenue-source-1934-2018/#per, 	Secondary http://www.whitehouse.gov/omb/budget/HISTORICALS, 10 14 2023
+
+Tax. Self-Employment Tax (Social Security and Medicare Taxes). August 2023, 	https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-	social-security-and-medicare-taxes, 10 21 2023
+
+Dict. Workforce definition and etymology. 2001-2023, 	https://www.etymonline.com/word/workforce, 10 21 2023
+

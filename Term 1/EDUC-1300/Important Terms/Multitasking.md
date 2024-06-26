@@ -1,0 +1,1 @@
+Doing more than one thing at a time, requires that you divide your attention among the tasks. Most college students assume that multitasking is a desirable skill. However, the reality is (and research shows) that you can get tasks done faster and more accurately if you concentrate on one at a time.

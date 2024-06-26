@@ -1,0 +1,1 @@
+ If no horizontal, or vertical, intersects the graph of the function more than once, the function is one-to-one and will have an inverse.

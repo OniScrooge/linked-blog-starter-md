@@ -1,0 +1,1 @@
+**A word or words that introduce information from someone else**. A signal phrase or a lead-in phrase comes before a quotation, paraphrase, or summary, and it includes citation information, like the author's name, title of the source, the year the source was published.

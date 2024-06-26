@@ -1,0 +1,1 @@
+Permanent committees with responsibility for particular areas of public policy.

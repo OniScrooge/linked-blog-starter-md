@@ -1,0 +1,1 @@
+A direct quotation is **when you take another person's words and place them in your own document**. These must always be placed inside quotation marks and given appropriate attribution (MLA, APA, Chicago, etc).

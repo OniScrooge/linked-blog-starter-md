@@ -1,0 +1,1 @@
+Logos, (Greek: “word,” “reason,” or “plan”) plural logoi, in ancient Greek philosophy and early Christian theology, **the divine reason implicit in the cosmos, ordering it and giving it form and meaning**.

@@ -1,0 +1,1 @@
+Ethos is a Greek word that means both **disposition and character**. It's when we use the 'character' of a person (like a celebrity or expert) to alter the audience's frame of mind – showing them that the advertiser is reliable and ethical. Advertisers tend to use ethos to build trust in what they're selling.

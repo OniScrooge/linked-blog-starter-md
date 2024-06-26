@@ -1,0 +1,1 @@
+A procedural tactic whereby a minority of senators can block a bill by talking about it until other senators give in and the bill is withdrawn from consideration or changed to meet the opponents' demands.
