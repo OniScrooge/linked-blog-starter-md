@@ -1,6 +1,3 @@
-# linked-blog-starter-md
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
+# School note files
 
-a cool edit
-
-Another cool edit.
+These are the files for school notes
