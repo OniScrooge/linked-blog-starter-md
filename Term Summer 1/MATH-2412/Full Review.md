@@ -1,3 +1,6 @@
+# Summary
+- __Polar Form__ - $r(\cos \theta+i\sin \theta)$
+- __Rectangular Form__ - $a+bi$
 # Part 1
 
 >[!faq]- Factor completely: $16x^{-8}+24x^{-4}-8x^{-2}$
@@ -185,4 +188,133 @@
 
 # Part 3
 
+>[!faq]- Change to _polar form_: $\sqrt{ 3 }-i$
+>Notice that it is in $Q_{4}$
+>Find the value of _r_: $$r=\sqrt{ (\sqrt{ 3 })^2 +1^2}=2$$
+>Find the value of $\theta$: $$\tan \theta=\mid-\frac{1}{\sqrt{ 3 }}\mid\to \frac{\sqrt{ 3 }}{3}$$
+>Find the inverse in $Q_{4}$: $$\tan^{-1}\frac{\sqrt{ 3 }}{3}=330\degree$$
+>$$=2(\cos 330\degree+i\sin 330\degree)$$
 
+>[!faq]- Change to _polar form_: $-6+6i$
+>Notice it's in $Q_{2}$
+>Find _r_: $$r=\sqrt{ (-6)^2+6^2 }\to 6\sqrt{ 2 }$$
+>Find $\theta$ in the $Q_{2}$: $$\tan \theta=-\frac{6}{6}\to -1=135\degree$$
+>Plug in: $$6\sqrt{ 2 }(\cos 135\degree+i\sin135\degree)$$
+
+>[!faq]- Change to _rectangular form_: $4\left( \cos \frac{\pi}{3}+i\sin \frac{\pi}{3} \right)$
+>Find the $\cos$ for $a$:
+> >$4\cos \frac{\pi}{3}=a$
+> >$4\left( \frac{1}{2} \right)=a$
+> >$2=a$
+>
+>Find the $\sin$ for $b$:
+> >$4\sin \frac{\pi}{3}=b$
+> >$4\left( \frac{\sqrt{ 3 }}{2} \right)=b$
+> >$2\sqrt{ 3 }=b$
+>
+>Plug it in: $$2+2\sqrt{ 3 }i$$
+
+>[!faq]- Change to _rectangular form_: $2(\cos 270\degree+i\sin 270\degree)$
+>Find the $\cos$ for $a$:
+> >$2\cos270\degree=a$
+> >$2(0)=a$
+> >$a=0$
+>
+>Find the $\sin$ for $a$:
+> >$2\sin 270\degree=b$
+> >$2(-1)=b$
+> >$b=-2$
+>
+>Plug it in: $$-2i$$
+
+>[!faq]- Use the DeMoivre's Theorem to find: $$\left[ 2\left( \cos \frac{\pi}{6}+i\sin \frac{\pi}{6} \right) \right]^6$$
+>Plug it into DeMoivre's Theorem: $$2^6\left( 6*\frac{\pi}{6}+6*\frac{\pi}{6} \right)$$
+>$$=64(\cos \pi+i\sin \pi)$$
+
+>[!faq]- Use $^n\sqrt{ z }=^n\sqrt{ r }\left[ \cos\left( \frac{\theta+2\pi k}{n}+i\sin\left( \frac{\theta+2\pi k}{n} \right) \right) \right]$ to find the three cube roots of $8\left( \cos \frac{\pi}{4}+i\sin \frac{\pi}{4} \right)$
+>Plug it into your formula: $$2\left[ \cos \left( \frac{\pi}{4}+\frac{2\pi k}{3} \right)+i\sin\left( \frac{\pi}{4}+\frac{2\pi k}{3} \right) \right]$$
+>Now find it with _k_ at _three_ values:
+> >$k=0\to 2\left( \cos \frac{\pi}{12}+i\sin \frac{\pi}{12} \right)$
+> >$k=1\to 2\left( \cos \frac{3\pi}{4}+i\sin \frac{3\pi}{4} \right)$
+> >$k=2\to 2\left( \cos \frac{17\pi}{12}+i\sin \frac{17\pi}{12} \right)$
+
+>[!faq]- For each ellipse find the following:
+>
+> >[!faq]- Write in standard form:
+> >Subtract 48 from both sides: $$4x^2-24x+y^2-8y=-48$$
+> >Factor _x_ & _y_, then multiply the coefficient by _C_ and add to the right side for both _x_ and _y_: $$4(x^2-6x+9)+(y^2-8y+16)=-48+36+16$$
+> >Lose _C_ and take half of _B_ for the constant: $$4(x-3)^2+(y-4)^2=4$$
+> >Divide both sides by _4_: $$\frac{(x-3)^2}{1}+\frac{(y-4)^2}{4}=1$$
+>
+>
+> >[!faq]- State the coordinates of the _vertices_:
+> >This is an ellipse, so the denominator determines that this one is _vertical_
+> >Add and subtract _2_ from the _y_ of the center: $$a^2=4\to a=\pm2\to(3,2),(3,6)$$
+>
+>
+> >[!faq]- State the coordinates of the _foci_:
+> >Find the _c_: $$c^2=b^2-a^2\to c^2=3\to c=\pm \sqrt{ 3 }$$
+> >Add _c_ to the center on the _major axis_: $$(3,4-\sqrt{ 3 }),(3,4+\sqrt{ 3 })$$
+>
+>
+> >[!faq]- State the lengths of the _major_ and _minor_ axes:
+> >Major$=2(b)$
+> >$$2(2)=4$$
+> >Minor$=2(a)$
+> >$$2(1)=2$$
+>
+>
+> >[!faq]- Use the reference rectangle to sketch the graph:
+> >![[Pasted image 20240701135228.png]]
+
+>[!faq]- For each hyperbola find the following:
+> >[!faq]- Write in standard form:
+> >Add 489 to both sides, factor, $c=\left( \frac{1}{2}b \right)^2$, and add the coefficient times _c_ to the other side: $$4(x^2-6x+9)-25(y^2-10y+25)=489+36-625$$
+> >Take $\frac{1}{2}b$ for for constant: $$4(x-3)^2-25(y-5)^2=-100$$
+> >Divide both sides by $-100$: $$-\frac{(x-3)^2}{25}+\frac{(y-5)^2}{4}=1$$
+>
+>
+> >[!faq]- State the coordinates of the _center_:
+> >$(x-3)\to x=3$
+> >$(y-5)\to y=5$
+> >$(3,5)$
+>
+>
+> >[!faq]- State the coordinates of the _vertices_:
+> >Find b:
+> >$b^2=25$
+> >$b=\pm 5$
+> >Find the pair for plus and minus: $(-2,5),(8,5)$
+>
+>
+> >[!faq]- State the coordinates of the _pseudo-vertices_:
+> >Find a:
+> >$a^2=4$
+> >$a=\pm2$
+> >Find the pair for plus and minus: $(3,3),(3,7)$
+>
+>
+> >[!faq]- State the coordinates of the _foci_:
+> >Find _c_, then add and subtract it from the _major_ side, which is _vertical_ because the _y_ is the positive side in standard form
+> >$c^2=a^2+b^2$
+> >$c^2=29$
+> >$c=\pm \sqrt{ 29 }$
+> >$(3,5-\sqrt{ 29 }),(3,5+\sqrt{ 29 })$
+>
+>
+> >[!faq]- Give the equation of each asymptote and graph:
+> >Remember: $y-(k)=\pm\frac{b}{a}(x-(h))$ and solve for _y_
+> >Positive: $y=\frac{2}{5}x+\frac{19}{5}$
+> >Negative: $y=-\frac{2}{5}x+\frac{31}{5}$
+> >![[Pasted image 20240701142552.png]]
+> 
+
+>[!faq]- Solve each oblique triangle. Round to the nearest tenth.
+>$A=70.1,B=55.2,a=12.1$
+>$C=180-70.1-55.2=54.7$
+>
+
+>[!faq]- Solve each oblique triangle. Round to the nearest tenth.
+
+>[!faq]- Solve each oblique triangle. Round to the nearest tenth.
+>
