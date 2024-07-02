@@ -1,6 +1,18 @@
 # Summary
 - __Polar Form__ - $r(\cos \theta+i\sin \theta)$
 - __Rectangular Form__ - $a+bi$
+- [[Sum & Difference Formulas]]
+- [[Half-Angle Formulas]]
+- [[Double Angle Formulas]]
+- [[the-quadratic-formula-and-the-values-of-discriminant.webp]]
+- __DeMoivre's Theorem__ - $[r(\cos \theta+i\sin \theta)]^n=r^n(\cos \theta*n+i\sin \theta*n)$
+- __Powers Theorem__ - $^n\sqrt{ z }=^n\sqrt{ r }\left[ \cos\left( \frac{\theta+2\pi k}{n}+i\sin\left( \frac{\theta+2\pi k}{n} \right) \right) \right]$
+- __Arithmetic sequence__ = $a_{n}=a_{1}+(n-1)d$
+- __Series Formula__ = $S_{n}=\frac{n}{2}[a_{1}+a_{n}]$
+- __General Term__ = $a_{n}=a_{1}r^{n-1}$
+- __Sum of Series of n__ = $S_{n}=\frac{a_{1}(1-r^n)}{1-r}$
+- __Binomial Coefficient__ - $\binom{n}{r}=\frac{n!}{r!(n-r)!}$
+- __Binomial Theorem__ - $(a+b)^n=\binom{n}{r}a^{n-r}b^r$
 # Part 1
 
 >[!faq]- Factor completely: $16x^{-8}+24x^{-4}-8x^{-2}$
@@ -248,7 +260,7 @@
 >
 >
 > >[!faq]- State the coordinates of the _vertices_:
-> >This is an ellipse, so the denominator determines that this one is _vertical_
+> >This is an ellipse, so the _denominator_ determines that this one is _vertical_
 > >Add and subtract _2_ from the _y_ of the center: $$a^2=4\to a=\pm2\to(3,2),(3,6)$$
 >
 >
@@ -309,12 +321,119 @@
 > >![[Pasted image 20240701142552.png]]
 > 
 
->[!faq]- Solve each oblique triangle. Round to the nearest tenth.
->$A=70.1,B=55.2,a=12.1$
->$C=180-70.1-55.2=54.7$
->
+>[!faq]- Solve each oblique triangle. Round to the nearest tenth $A=70.1,B=55.2,a=12.1$
+>All triangles angles add to 180$$C=180-70.1-55.2=54.7$$
+>Find the sides using the Law of Sines $$\frac{12.1}{\sin70.1}=\frac{b}{\sin55.2}\to b=\frac{12.1*\sin55.2}{\sin 70.1}=10.6$$
+>Find the sides using the Law of Sines $$\frac{12.1}{\sin 70.1}=\frac{c}{\sin 54.7}\to c=\frac{12.1*\sin 54.7}{\sin 70.1}=10.5$$
 
->[!faq]- Solve each oblique triangle. Round to the nearest tenth.
+>[!faq]- Solve each oblique triangle. Round to the nearest tenth $A=102.7,C=30.1,c=12.6$
+>All triangles angles add to180 $$C=180-102.7-30.1=47.2$$
+>Use the Law of Sines for _a_ $$\frac{12.6}{\sin 30.1}=\frac{a}{\sin 102.7}\to a=\frac{12.6*\sin 102.7}{\sin 30.1}=24.5$$
+>Use the Law of Sines for _b_ $$\frac{12.6}{\sin 30.1}=\frac{a}{\sin 47.2}\to a=\frac{12.6*\sin 47.2}{\sin 30.1}=18.4$$
 
->[!faq]- Solve each oblique triangle. Round to the nearest tenth.
+>[!faq]- Solve each oblique triangle. Round to the nearest tenth $a=3.8,b=4.2,c=4.0$
+>Find the longest angle first with the [[law-of-cosines.png]], _B_: 
+$$4.2^2=3.8^2+4^2-2(3.8)(4)\cos B$$
+>Simplify:$$17.64=14.44+16-30.4\cos B$$
+>Subtract from both sides: $$-12.8=-30.4\cos B$$
+>Divide from both sides and take the inverse: $$\frac{12.8}{30.4}=\cos B\to B=65.1\degree$$
+>Use the [[Law of Sines]]: $$\frac{4.2}{\sin 65.1}=\frac{3.8}{\sin A}\to A=\frac{3.8*\sin 65.1}{4.2}\to A=55.2\degree$$
+>Find the last angle with triangle law: $$C=180-55.2-65.1\to C=59.7\degree$$
+
+# Part 4
+
+>[!faq]- Write the first _four_ terms of $a^n=\frac{(-1)^{n+1}}{2^n-1}$
+>$$a_{1}=\frac{(-1)^2}{2-1}=1$$
+>$$a_{2}=\frac{(-1)^3}{2^2-1}=-\frac{1}{3}$$
+>$$a_{3}=\frac{(-1)^4}{2^3-1}=\frac{1}{7}$$
+>$$a_{4}=\frac{(-1)^5}{2^4-1}=-\frac{1}{15}$$
+
+>[!faq]- Write the first _four_ terms of $a_{1}=5$ and $a_{n}=3a_{n-1}-1$
+>$$a_{1}=5$$
+>$$a_{2}=14$$
+>$$a_{3}=41$$
+>$$a_{4}=122$$
+
+>[!faq]- Write the first _four_ terms of $a_{n}=-2(n-1)!$
+>$0!$ is equal to _1_: $$a_{1}=-2(0)!\to-2(1)=-2$$
+>$$a_{2}=-2(1)!\to -2(1)=-2$$
+>Factorial comes before multiplication: $$a_{3}=-2(2)!\to-2(2)=-4$$
+>$$a_{4}=-2(3)!\to-2(6)=-12$$
+
+>[!faq]- Use the $a_{n}$ formula to find: $a_{100}$ if $a_{1}=5,d=-3$
+>The formula goes $a_{n}=a_{1}+(n-1)d$
+>Plug into formula and solve: $$a_{100}=5+(100-1)(-3)\to 5+99(-3)=-292$$
+
+>[!faq]- Use the $a_{n}$ formula to find: $a_{75}$ for the _arithmetic sequence_ $3,-8,-19,\dots$
+>Find the information to fill the formula:
+> >$a_{1}=3$
+> >$d=-11$
 >
+>Plug into the formula and solve: $$a_{75}=3+(75-1)(-11)\to 3+74(-11)=-811$$
+
+>[!faq]- Find the sum of the first 50 terms of the _arithmetic series_: $5+12+19+\dots$
+>First, find the information you'll need to plug:
+> >$a_{1}=5$
+> >$d=7$
+> >
+>Then find the arithmetic sequence to _n_ using the $a_{n}$ formula: $$a_{50}=5+(50-1)(7)\to 5+49(7)=348$$
+>Now use the arithmetic sequence formula: $$S_{50}=\frac{50}{2}(5+348)=8825$$
+
+>[!faq]- For each _parabola_: $x^2+4x+8y-4$
+> >[!faq]- Write in standard form:
+> >Separate the _x_ and the _y_ by subtracting and adding to both sides, as well as the _C_: $$(x^2+4x+4)=-8y+4+4$$
+> >Simplify: $$(x+2)^2=-8y+8$$
+> >Factor: $$(x+2)^2=-8(y-1)$$
+>
+>
+> >[!faq]- State the direction:
+> >_Vertical_ that opens _down_
+>
+>
+> >[!faq]- State the coordinates of the _vertex_:
+> >$x+2,y-1$
+> >$(-2,1)$
+>
+>
+> >[!faq]- State the equation of the _axis of symmetry_ :
+> >Find _p_: $4p=-8\to p=-2$
+> >Place on the perpendicular coordinate: $x=-2$
+>
+>
+> >[!faq]- State the coordinates of the _focus_:
+> >Take the _vertex_ + _P_ on it's opening coordinate:
+> >$(-2,-1)$
+>
+>
+> >[!faq]- Give the equation of _directerix_:
+> >Go _p_ units in the _opposite direction_ of the _focus_ from the _vertex_.
+> >$y=3$
+>
+>
+> >[!faq]- State the coordinates of the endpoints of the focal chord and graph:
+> >The _Focus$+\frac{4(p)}{2}$ perpendicular to the direction the parabola opens
+> >$(-2,-1)\to h\pm4$
+> >$=(-6,-1),(2,-1)$
+> >![[Pasted image 20240702105133.png]]
+
+>[!faq]- Find the coordinates of the point with parametric equations: $x=(60\cos 30\degree)t,y=5+(50\sin 30\degree)t-16t^2,t=2$
+>Solve for _x_: $$x=\left( 60*\frac{\sqrt{ 3 }}{2} \right)*2\to 60\sqrt{ 3 }$$
+>Solve for _y_: $$y=5+\left( 60*\frac{1}{2} \right)(2)-16(2)^2\to 5+30(2)-64=1$$
+>$$=(60\sqrt{ 3 },1)$$
+
+>[!faq]- Plot the points described by the parametric equations: $x=t,y=2t+2,-2\leq t\leq 3$
+>Use the formulas across the range to get the coordinates:
+> >$(-5,-2)$
+> >$(-4,0)$
+> >$(-3,2)$
+> >$(-2,4)$
+> >$(-1,6)$
+> >$(0,8)$
+>
+>Plot the points and it's a line
+
+>[!faq]- Eliminate the parameter _t_: $x=3t-5,y=4t^2$
+>Solve for _t_ on the _x_: $$3t=x+5\to t=\frac{1}{3}x+\frac{5}{3}$$
+>Solve for _y_ with _t_ substitution: $$y=4\left( \frac{1}{3}x+\frac{5}{3} \right)^2$$
+>Distribute the square and foil: $$=4\left( \frac{1}{9}x^2+\frac{10}{9}x+\frac{25}{9} \right)$$
+>Distribute the _4_: $$y=\frac{4}{9}x^2+\frac{40}{9}x+\frac{100}{9}$$
