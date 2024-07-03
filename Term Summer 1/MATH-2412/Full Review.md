@@ -13,6 +13,8 @@
 - __Sum of Series of n__ = $S_{n}=\frac{a_{1}(1-r^n)}{1-r}$
 - __Binomial Coefficient__ - $\binom{n}{r}=\frac{n!}{r!(n-r)!}$
 - __Binomial Theorem__ - $(a+b)^n=\binom{n}{r}a^{n-r}b^r$
+- _Check which quadrant you're in_
+- _Know your unit circle_
 # Part 1
 
 >[!faq]- Factor completely: $16x^{-8}+24x^{-4}-8x^{-2}$
@@ -81,12 +83,12 @@
 >
 >Period: $2\pi\to \frac{2\pi}{2}=\pi$
 >Vertical Shift: Up $1$
->Phase Shift: Right $\pi\to \frac{\pi}{2}$
+>Phase Shift: Closer $\pi\to \frac{\pi}{2}$
 >![[Pasted image 20240701100020.png]]
 
 >[!faq]- Graph one complete period: $y=\sec \frac{1}{2}x-2$
 >Period: $2\pi\to \frac{2\pi}{\frac{1}{2}}=4\pi$
->Vertical shift: Up $2$
+>Vertical shift: Down $2$
 >![[Pasted image 20240701100503.png]]
 
 >[!faq]- Graph one complete period: $y=\tan \pi x+2$
@@ -142,7 +144,7 @@
 >Pythagorean Identity [[Pythagorean Identities#^ff3cac]]: $$2(1-\cos^2x)$$
 >Distribute: $$2-2\cos^2x$$
 
->[!faq]- If $\sin A=-\frac{18}{17}$ and _A_ is in $Q_{3}$ and $\cos B=-\frac{5}{13}$ and _B_ is in $Q_{2}$, find the exact value of:
+>[!faq]- If $\sin A=-\frac{8}{17}$ and _A_ is in $Q_{3}$ and $\cos B=-\frac{5}{13}$ and _B_ is in $Q_{2}$, find the exact value of:
 >
 >Pythagorean Theorem to find:$\sin B=-\frac{15}{17}$ & $\cos A=\frac{12}{13}$
 >
@@ -250,7 +252,7 @@
 > >$k=1\to 2\left( \cos \frac{3\pi}{4}+i\sin \frac{3\pi}{4} \right)$
 > >$k=2\to 2\left( \cos \frac{17\pi}{12}+i\sin \frac{17\pi}{12} \right)$
 
->[!faq]- For each ellipse find the following:
+>[!faq]- For each ellipse $4x^2-24x+y^2-8y+48=0$ find the following:
 >
 > >[!faq]- Write in standard form:
 > >Subtract 48 from both sides: $$4x^2-24x+y^2-8y=-48$$
@@ -279,7 +281,7 @@
 > >[!faq]- Use the reference rectangle to sketch the graph:
 > >![[Pasted image 20240701135228.png]]
 
->[!faq]- For each hyperbola find the following:
+>[!faq]- For each hyperbola $4x^2-24x-25y^2+250y-489=0$ find the following:
 > >[!faq]- Write in standard form:
 > >Add 489 to both sides, factor, $c=\left( \frac{1}{2}b \right)^2$, and add the coefficient times _c_ to the other side: $$4(x^2-6x+9)-25(y^2-10y+25)=489+36-625$$
 > >Take $\frac{1}{2}b$ for for constant: $$4(x-3)^2-25(y-5)^2=-100$$
@@ -342,7 +344,7 @@ $$4.2^2=3.8^2+4^2-2(3.8)(4)\cos B$$
 
 # Part 4
 
->[!faq]- Write the first _four_ terms of $a^n=\frac{(-1)^{n+1}}{2^n-1}$
+>[!faq]- Write the first _four_ terms of $a_{n}=\frac{(-1)^{n+1}}{2^n-1}$
 >$$a_{1}=\frac{(-1)^2}{2-1}=1$$
 >$$a_{2}=\frac{(-1)^3}{2^2-1}=-\frac{1}{3}$$
 >$$a_{3}=\frac{(-1)^4}{2^3-1}=\frac{1}{7}$$
@@ -411,7 +413,7 @@ $$4.2^2=3.8^2+4^2-2(3.8)(4)\cos B$$
 >
 >
 > >[!faq]- State the coordinates of the endpoints of the focal chord and graph:
-> >The _Focus$+\frac{4(p)}{2}$ perpendicular to the direction the parabola opens
+> >The _Focus_$+\frac{4(p)}{2}$ perpendicular to the direction the parabola opens
 > >$(-2,-1)\to h\pm4$
 > >$=(-6,-1),(2,-1)$
 > >![[Pasted image 20240702105133.png]]
