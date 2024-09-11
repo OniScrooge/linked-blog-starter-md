@@ -1,0 +1,1 @@
+The percentage of a sample that agrees to be included in a study, usually a survey.

@@ -1,0 +1,10 @@
+- On September 9th
+- During regular class time 10am
+- No meeting on Monday
+- 20 Questions
+- Requires webcam
+- 100 minute time limit
+- Closes at 1pm
+- Calculator permitted
+- 2 scratch papers permitted, must be kept though
+- Questions will be similar to the homework and her class examples

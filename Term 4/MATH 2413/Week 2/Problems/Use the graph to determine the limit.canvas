@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"47e165c567fe1a3e","x":-260,"y":-340,"width":720,"height":640,"color":"2","type":"text","text":"# Use the graph to determine the limit, if one exists\n![[Pasted image 20240908101138.png]]\n\n__Find__:\n- $\\lim_{ x \\to c^+ }f(x)=$\n- $\\lim_{ x \\to c^- }f(x)=$\n- $\\lim_{ x \\to c }f(x)=$"},
+		{"id":"d31934a672637039","x":-431,"y":420,"width":311,"height":360,"color":"4","type":"text","text":"As _x_ approaches _c_ from the _right_, what number does it stop at, or where is there a hollow circle on the graph?\n\nIf you look at the graph above, and follow along the _x-axis_ from the _right_ you'll see it rise and stop, per se, at a hollow circle on the _y-axis_ of __3__.\n\n$\\lim_{ x \\to c^+ }f(x)=3$"},
+		{"id":"5c425886cac85a7e","x":-60,"y":422,"width":320,"height":358,"color":"4","type":"text","text":"The limit of _x_ as it approaches _c_ is defined, as there is a full circle on the graph.\n\nBut the definition is not equal, as the solid circle is not in the same spot as the hollow circle.\n\nSo it too is at __3__.\n\n$\\lim_{ x \\to c }f(x)=3$\n"},
+		{"id":"7bf3bf7283a4daf2","x":-1100,"y":-340,"width":700,"height":640,"color":"5","type":"text","text":"1.4 Continuity and One-Sided Limits ![[1.4 Continuity and One-Sided Limits#^8603c9]]"},
+		{"id":"51d232566084b362","x":300,"y":422,"width":320,"height":358,"color":"4","type":"text","text":"As _x_ approaches _c_ from the _left_, what number does it stop at, or where is there a hollow circle on the graph?\n\nIf you look on the graph above, and follow along the _x-axis_ from the _right_ you'll see it rise and stop, per se, at a hollow circle on the _y-axis_ of __3__.\n\n$\\lim_{ x \\to c^- }f(x)=3$"}
+	],
+	"edges":[
+		{"id":"fecf8e899bc6b57d","fromNode":"47e165c567fe1a3e","fromSide":"bottom","toNode":"d31934a672637039","toSide":"top"},
+		{"id":"3221321faebb2e02","fromNode":"47e165c567fe1a3e","fromSide":"bottom","toNode":"51d232566084b362","toSide":"top"},
+		{"id":"17ef23129ef16754","fromNode":"47e165c567fe1a3e","fromSide":"bottom","toNode":"5c425886cac85a7e","toSide":"top"},
+		{"id":"6eac3a52d7429874","fromNode":"7bf3bf7283a4daf2","fromSide":"right","toNode":"47e165c567fe1a3e","toSide":"left"}
+	]
+}

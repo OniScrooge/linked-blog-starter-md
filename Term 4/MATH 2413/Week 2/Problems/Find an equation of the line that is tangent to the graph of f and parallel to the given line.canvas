@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"85f5f36142708338","type":"text","text":"# Find an equation of the line that is tangent to the graph of _f_ and parallel to the given _line_","x":-280,"y":-320,"width":600,"height":140,"color":"2"},
+		{"id":"836980ede5eaf653","type":"text","text":"_Function_: $$f(x)=x^3$$","x":-356,"y":-100,"width":306,"height":133,"color":"3"},
+		{"id":"1d011edde19f9a51","type":"text","text":"Find the derivative: $$f(x)=x^3$$\n$$f'(x)=3x^2$$","x":-356,"y":100,"width":306,"height":160},
+		{"id":"2653d0416534c066","type":"text","text":"_Line_: $$12x-y+2$$","x":100,"y":-100,"width":280,"height":133,"color":"3"},
+		{"id":"43ed3367ae524a1e","type":"text","text":"Set _line_ equal to 0: $$12x-y+2=0$$\nSolve for _y_: $$y=12x+2$$","x":100,"y":100,"width":280,"height":184},
+		{"id":"d2564ce511726358","type":"text","text":">[!note] Slope-Intercept\n>The Slope-Intercept Form of the equation of a straight line: $$y=mx+b$$","x":480,"y":82,"width":360,"height":220,"color":"5"},
+		{"id":"c17b56f15b818e0c","type":"text","text":"![[2.2 Basic Differentiation rules#^f175ee]]","x":-920,"y":10,"width":440,"height":340,"color":"5"},
+		{"id":"d7fdc2b6c4a70912","type":"text","text":"Find _x_: $$3x^2=12$$\nDivide: $$x^2=4$$\nTake the root: $$x=\\pm2$$","x":-356,"y":324,"width":306,"height":273},
+		{"id":"f7289b69cf9592a0","type":"text","text":"If $x=2$ then $y=(2)^3=8$ point is (2,8) for _x_ and _y_ coordinates, or (h,k). As such, the tangent line is: $$y-8=12(x-2)$$\nDistribute the _12_: $$y-8=12x-24$$\nAdd _8_: $$y=12x-24+8$$\nSimplify: $$y=12x-16$$\n>[!success] Find an __equation__ of the line that is tangent to the graph of _f_ and parallel to the given _line_\n>\n>The equation found is: $$y=12x-16$$","x":-280,"y":700,"width":600,"height":560,"color":"4"},
+		{"id":"25c9d6ae798a3f8d","type":"text","text":"9.2 The Hyperbola ![[9.2 The Hyperbola#^5c2a25]]","x":-760,"y":910,"width":280,"height":140,"color":"5"},
+		{"id":"5b4a011c7645d1d0","type":"text","text":"The slope is in _m_'s position. So the slope is $=12$","x":100,"y":411,"width":280,"height":100},
+		{"id":"089eb5fd4fabadd3","type":"text","text":">[!note] Parallel lines\n>When two lines are parallel, it means they have the same slope.","x":-844,"y":-333,"width":364,"height":166,"color":"5"}
+	],
+	"edges":[
+		{"id":"371b068321011938","fromNode":"85f5f36142708338","fromSide":"bottom","toNode":"836980ede5eaf653","toSide":"top"},
+		{"id":"18f783ba4cb06a1f","fromNode":"089eb5fd4fabadd3","fromSide":"right","toNode":"85f5f36142708338","toSide":"left"},
+		{"id":"244431f26eb6e286","fromNode":"85f5f36142708338","fromSide":"bottom","toNode":"2653d0416534c066","toSide":"top"},
+		{"id":"fd6d3b7673be8b1f","fromNode":"2653d0416534c066","fromSide":"bottom","toNode":"43ed3367ae524a1e","toSide":"top"},
+		{"id":"7cfb9f42e8bcb262","fromNode":"d2564ce511726358","fromSide":"left","toNode":"43ed3367ae524a1e","toSide":"right"},
+		{"id":"9c4685e339a589bc","fromNode":"43ed3367ae524a1e","fromSide":"bottom","toNode":"5b4a011c7645d1d0","toSide":"top"},
+		{"id":"e87c30ab992b67f0","fromNode":"836980ede5eaf653","fromSide":"bottom","toNode":"1d011edde19f9a51","toSide":"top"},
+		{"id":"36a2855b2c9817de","fromNode":"c17b56f15b818e0c","fromSide":"right","toNode":"1d011edde19f9a51","toSide":"left"},
+		{"id":"9a9888694691ab31","fromNode":"d2564ce511726358","fromSide":"left","toNode":"5b4a011c7645d1d0","toSide":"right"},
+		{"id":"e77e81e441ccf26e","fromNode":"1d011edde19f9a51","fromSide":"bottom","toNode":"d7fdc2b6c4a70912","toSide":"top"},
+		{"id":"a5c6b458d04d4bbe","fromNode":"5b4a011c7645d1d0","fromSide":"left","toNode":"d7fdc2b6c4a70912","toSide":"right"},
+		{"id":"6d94ed303ce9681a","fromNode":"d7fdc2b6c4a70912","fromSide":"bottom","toNode":"f7289b69cf9592a0","toSide":"top"},
+		{"id":"8219f2b9c9b460b6","fromNode":"25c9d6ae798a3f8d","fromSide":"right","toNode":"f7289b69cf9592a0","toSide":"left"}
+	]
+}

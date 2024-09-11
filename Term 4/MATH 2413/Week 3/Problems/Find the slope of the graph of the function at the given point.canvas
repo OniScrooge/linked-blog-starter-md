@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"fef76c9f8df40c6f","type":"text","text":"Find $f'$ of $\\theta$\n\nDerivative of _sin_ is _cos_: $$9\\cos \\theta$$\nDerivative of $\\theta$ is _1_: $$9\\cos \\theta-1$$\n$$f'(\\theta)=9\\cos \\theta-1$$","x":-240,"y":-20,"width":480,"height":280},
+		{"id":"56ae98c648b84df1","type":"text","text":"2.2 Basic Differentiation rules ![[2.2 Basic Differentiation rules#^e1ab17]]","x":-740,"y":-60,"width":400,"height":360,"color":"5"},
+		{"id":"953a19d32d128d70","type":"text","text":">[!success] Find the slope of the graph of the function at the given point\n>\n>The slope is __8__","x":-240,"y":766,"width":480,"height":174,"color":"4"},
+		{"id":"564854d863e81dc1","type":"text","text":"# Find the slope of the graph of the function at the given point\n\n- __Function__ $f(\\theta)=9\\sin(\\theta)-\\theta$\n- __Point__ $(0,0)$","x":-240,"y":-300,"width":480,"height":200,"color":"2"},
+		{"id":"5948657748d86744","type":"text","text":"Now, find the slope at the given point of _(0,0)_.\n\nSubstitute in the formula$$f'(0)=9\\cos(0)-1$$\nCos at 0 is 1: $$f'(0)=9(1)-1$$\nSimplify: $$f'(0)=9-1=8$$","x":-240,"y":340,"width":480,"height":340}
+	],
+	"edges":[
+		{"id":"313c5dc8253bb4db","fromNode":"564854d863e81dc1","fromSide":"bottom","toNode":"fef76c9f8df40c6f","toSide":"top"},
+		{"id":"a48d467c3db06a08","fromNode":"56ae98c648b84df1","fromSide":"right","toNode":"fef76c9f8df40c6f","toSide":"left"},
+		{"id":"f571daa4d8917849","fromNode":"fef76c9f8df40c6f","fromSide":"bottom","toNode":"5948657748d86744","toSide":"top"},
+		{"id":"7e2d5b7d99725314","fromNode":"5948657748d86744","fromSide":"bottom","toNode":"953a19d32d128d70","toSide":"top"}
+	]
+}

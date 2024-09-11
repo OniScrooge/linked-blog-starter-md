@@ -1,0 +1,1 @@
+A subset drawn from the larger population in which every unit in the population has the same chance of being included in the subset.

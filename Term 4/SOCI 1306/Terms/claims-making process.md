@@ -1,0 +1,1 @@
+The use of arguments to try to influence public perceptions of a social problem, the reasons for it, and possible solutions to it.

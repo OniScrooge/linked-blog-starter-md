@@ -1,0 +1,1 @@
+A measurement of how a function changes when the values of its inputs change.

@@ -1,0 +1,1 @@
+The social institution that organizes the production, distribution, and consumption of a society’s goods and services.

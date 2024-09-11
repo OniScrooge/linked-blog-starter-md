@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"e3c42fddc8c016f1","type":"text","text":"# Determine whether the function is differentiable at _x=3_\n$$f(x)=\\binom{x^+3,x\\leq 3}{6x-9,x>3}$$\n$$$$","x":-220,"y":-240,"width":500,"height":220,"color":"2"},
+		{"id":"883b5487dfcd1b57","type":"text","text":"From this information, we can determine that _f_ is continuous when _x_ is equal to __3__","x":-382,"y":80,"width":324,"height":121,"color":"3"},
+		{"id":"24ca7c8aa6b76b1a","type":"text","text":"In order to find out if this function is differentiable when _x_ is equal to _3_, we have to find out the limit of this function form _left_ and _right_.\n","x":-220,"y":300,"width":500,"height":120},
+		{"id":"44ada20a1663d1c9","type":"text","text":"\nFrom the left we can use the formula: $$\\lim_{ x \\to 3^- } \\frac{f(x)-f(3)}{x-3}$$\nPlug in: $$\\lim_{ x \\to 3^- } \\frac{(x+3)-6}{x-3}$$\nSimplify: $$\\lim_{ x \\to 3^- } \\frac{x-3}{x-3}$$\n$$\\lim_{ x \\to 3^- } 1$$","x":-500,"y":560,"width":500,"height":400},
+		{"id":"984a0841e8837974","x":60,"y":530,"width":540,"height":460,"type":"text","text":"From the right we can use the formula: $$\\lim_{ x \\to 3^+ } \\frac{f(x)-f(3)}{x-3}$$\nPlug in: $$\\lim_{ x \\to 3^+ } \\frac{(6x-9) - 9}{x-3}$$\nSimplify: $$\\lim_{ x \\to 3^+ } \\frac{6x-18}{x-3}$$\n$$\\lim_{ x \\to 3^+ } \\frac{6(x-3)}{x-3}$$\n$$\\lim_{ x \\to 3^+ } 6$$"},
+		{"id":"b2ce3517e5f1d837","x":-260,"y":1100,"width":580,"height":179,"color":"4","type":"text","text":">[!success] Determine whether the function is differentiable at _x=3_\n>\n>Because the left and right side limits are different, we can say that they are __not differentiable at x=3__"}
+	],
+	"edges":[
+		{"id":"feafbf404b97329d","fromNode":"e3c42fddc8c016f1","fromSide":"bottom","toNode":"883b5487dfcd1b57","toSide":"top"},
+		{"id":"ec14634f8a14f03e","fromNode":"e3c42fddc8c016f1","fromSide":"bottom","toNode":"24ca7c8aa6b76b1a","toSide":"top"},
+		{"id":"8d8197446d4772e9","fromNode":"883b5487dfcd1b57","fromSide":"bottom","toNode":"24ca7c8aa6b76b1a","toSide":"top"},
+		{"id":"db0a5841aa6f0298","fromNode":"24ca7c8aa6b76b1a","fromSide":"bottom","toNode":"44ada20a1663d1c9","toSide":"top"},
+		{"id":"b1a8088efe2fbf35","fromNode":"24ca7c8aa6b76b1a","fromSide":"bottom","toNode":"984a0841e8837974","toSide":"top"},
+		{"id":"5987ac2d4cbcdbca","fromNode":"44ada20a1663d1c9","fromSide":"bottom","toNode":"b2ce3517e5f1d837","toSide":"top"},
+		{"id":"44e0b6b41ded5cca","fromNode":"984a0841e8837974","fromSide":"bottom","toNode":"b2ce3517e5f1d837","toSide":"top"}
+	]
+}

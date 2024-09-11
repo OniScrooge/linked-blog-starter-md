@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"992c3df7005a0104","type":"text","text":"# Determine whether the graph of the function has a vertical asymptote or a removable discontinuity at __x = -5__\n$$f(x)=\\frac{x^2-25}{x+5}$$","x":-160,"y":-260,"width":680,"height":220,"color":"2"},
+		{"id":"7d485436585199ba","type":"text","text":"Take the limit and factor: $$\\lim_{ x \\to -5 } \\frac{(x-5)(x+5)}{x+5}$$\nRemove like terms: $$\\lim_{ x \\to -5 } x-5$$\nPlug in _x_: $$\\lim_{ x \\to -5 } (-5-5)=-10$$","x":-90,"y":60,"width":540,"height":335},
+		{"id":"5fe591672577f495","type":"text","text":">[!success] Determine whether the graph of the function has a vertical asymptote or a removable discontinuity at x = -5\n>\n>The limit is __-10__, this implies that there __is a removable discontinuity__","x":-90,"y":500,"width":540,"height":225,"color":"4"}
+	],
+	"edges":[
+		{"id":"ffa9d31b50fccd68","fromNode":"992c3df7005a0104","fromSide":"bottom","toNode":"7d485436585199ba","toSide":"top"},
+		{"id":"6657c19f3f61f139","fromNode":"7d485436585199ba","fromSide":"bottom","toNode":"5fe591672577f495","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+The belief that negative social conditions or behaviors do not become social problems unless citizens, policymakers, and other parties call attention to the condition or behavior and define it as a social problem.

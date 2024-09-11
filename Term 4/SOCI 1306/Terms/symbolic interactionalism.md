@@ -1,0 +1,1 @@
+A perspective in sociology that focuses on the meanings people gain from social interaction.

@@ -1,0 +1,1 @@
+The view that social institutions are important for their contributions to social stability.

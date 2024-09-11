@@ -1,0 +1,1 @@
+A category of people who share certain inherited physical characteristics, such as skin color, facial features, and stature.

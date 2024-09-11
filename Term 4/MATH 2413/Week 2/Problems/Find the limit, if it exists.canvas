@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"58f7eaa67a53560a","x":-180,"y":-300,"width":400,"height":140,"color":"2","type":"text","text":"# Find the limit, if it exists\n$$\\lim_{ \\Delta x \\to 0^+ } \\frac{\\frac{8}{x+\\Delta x}-\\frac{8}{x}}{\\Delta x}$$"},
+		{"id":"876045988fff3f90","x":-260,"y":-80,"width":560,"height":400,"type":"text","text":"First, simplify the numerator.\n\nCommon denominator: $$\\frac{8}{x+\\Delta x}-\\frac{8}{x}=\\frac{8x-8(x+\\Delta x)}{x(x+\\Delta x)}$$\nDistribute: $$=\\frac{8x-8x+8\\Delta x}{x(x+\\Delta x)}$$\nLike terms: $$\\frac{8\\Delta x}{x(x+\\Delta x)}$$"},
+		{"id":"aff0be3d3ff37577","x":-260,"y":400,"width":560,"height":559,"type":"text","text":"Second, substitute back into the original expression.\n\nSubstitute: $$\\lim_{ \\Delta x \\to 0^+ } \\frac{\\frac{-8\\Delta x}{x(x+\\Delta x)}}{\\Delta x}$$\nCancel out: $$\\lim_{ \\Delta x \\to 0^+ } -\\frac{8}{x(x+\\Delta x)}$$\nPlug in the value of $\\Delta x=0$: $$\\lim_{ \\Delta x \\to 0^+ } \\frac{-8}{x(x+0)}$$\nSimplify: $$\\lim_{ \\Delta x \\to 0^+ } \\frac{-8}{x(x)}$$\n$$\\lim_{ \\Delta x \\to 0^+ } \\frac{-8}{x^2}$$"},
+		{"id":"be44ce7ed6a0f8e8","x":-260,"y":1040,"width":560,"height":148,"color":"4","type":"text","text":">[!success] Find the limit, if it exists\n>\n>The limit does exist at $-\\frac{8}{x^2}$\n\n"}
+	],
+	"edges":[
+		{"id":"76abaec94f861a66","fromNode":"58f7eaa67a53560a","fromSide":"bottom","toNode":"876045988fff3f90","toSide":"top"},
+		{"id":"dbea917c0ee42508","fromNode":"876045988fff3f90","fromSide":"bottom","toNode":"aff0be3d3ff37577","toSide":"top"},
+		{"id":"dbe609c36bf23840","fromNode":"aff0be3d3ff37577","fromSide":"bottom","toNode":"be44ce7ed6a0f8e8","toSide":"top"}
+	]
+}

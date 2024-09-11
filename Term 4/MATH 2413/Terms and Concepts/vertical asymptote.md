@@ -1,0 +1,1 @@
+A vertical [[asymptote]] of a graph is **a vertical line x = a where the graph tends toward positive or negative infinity as the inputs approach a**. A horizontal [[asymptote]] of a graph is a horizontal line y = b where the graph approaches the line as the inputs approach ∞ or –∞.

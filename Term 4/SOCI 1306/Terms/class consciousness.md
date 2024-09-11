@@ -1,0 +1,1 @@
+Awareness of one’s placement in the social structure and the interests arising from this placement.

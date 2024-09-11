@@ -1,0 +1,1 @@
+The process whereby individuals learn the culture of their society.

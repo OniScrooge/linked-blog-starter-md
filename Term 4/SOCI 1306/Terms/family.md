@@ -1,0 +1,1 @@
+A group of two or more people who are related by blood, marriage, adoption, or a mutual commitment and who care for one another.

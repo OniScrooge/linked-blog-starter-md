@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3d66f0e0d5c10ea5","type":"text","text":"# Consider the following limit\n$$\\lim_{ x \\to 8 } (9x+8)$$","x":-440,"y":-220,"width":460,"height":140,"color":"2"},
+		{"id":"fb0d5911470cafa0","type":"text","text":" Find the limit _L_\n\n$$x=8, (9x+8)$$\nPlug in: $$9(8)+8$$\nSolve: $$72+8$$\n$$L=80$$","x":-819,"y":0,"width":379,"height":320,"color":"4"},
+		{"id":"264688b51feec0a1","type":"text","text":"Find $\\delta>0$ such that $\\mid f(x)-L\\mid<0.01$ whenever $0<\\mid x-8\\mid<\\delta$. Round to the nearest 5th decimal.\n\nSet up the formula: $$9x+8=80$$\nMake it equal to 0: $$9x-72=0$$\nFactor: $$9\\mid x-8\\mid=0$$\nSet equal to .01: $$9\\mid x-8\\mid=.01$$\nDivide _9_ from both sides: $$\\mid x-8\\mid=\\frac{1}{900}/.00111$$","x":-390,"y":0,"width":360,"height":560,"color":"4"},
+		{"id":"a96fda94268f52e5","type":"text","text":"Find $\\delta>0$ such that $\\mid f(x)-L\\mid<0.005$ whenever $0<\\mid x-8\\mid<\\delta$. Round to the nearest 5th decimal.\n\nSet up the formula: $$9x+8=80$$\nMake it equal to 0: $$9x-72=0$$\nFactor: $$9\\mid x-8\\mid=0$$\nSet equal to .005: $$9\\mid x-8\\mid=.005$$\nDivide _9_ from both sides: $$\\mid x-8\\mid=\\frac{1}{1800}/.00056$$","x":20,"y":0,"width":371,"height":560,"color":"4"}
+	],
+	"edges":[
+		{"id":"f66b290a57d08066","fromNode":"3d66f0e0d5c10ea5","fromSide":"bottom","toNode":"fb0d5911470cafa0","toSide":"top"},
+		{"id":"46c09725a37bcdd6","fromNode":"3d66f0e0d5c10ea5","fromSide":"bottom","toNode":"264688b51feec0a1","toSide":"top"},
+		{"id":"00e876b6d2dd8e9d","fromNode":"3d66f0e0d5c10ea5","fromSide":"bottom","toNode":"a96fda94268f52e5","toSide":"top"}
+	]
+}

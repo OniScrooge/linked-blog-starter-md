@@ -1,0 +1,1 @@
+An economic system in which the means of production are privately owned.

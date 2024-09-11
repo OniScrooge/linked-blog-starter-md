@@ -1,0 +1,1 @@
+The view that society is composed of groups with different interests arising from their placement in the social structure.

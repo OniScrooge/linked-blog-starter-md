@@ -1,0 +1,1 @@
+In an experiment, the group that does not experience the experimental condition.

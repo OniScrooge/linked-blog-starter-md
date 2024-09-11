@@ -21,18 +21,15 @@ Basically summarize the paper in 3-5 sentences. 
 ## Essentially
 You are going to tell me what you’re going to say in your paper (INTRODUCTION, THESIS), say it (BODY), and then tell me what you just said (CONCLUSION).   😊
 
-It is very important that you cite your sources properly in the text.  The citation comes immediately after the quote or fact that you use, and needs to include the author's name and page number of the book/article you got your information from.  You will still need a works cited page.  Here is yet another link to the Purdue Owl, so that you can be sure to cite your material the right way and not have to deal with plagiarism issues.  
+It is very important that you cite your sources properly in the text.  The citation comes immediately after the quote or fact that you use, and needs to include the author's name and page number of the book/article you got your information from.  You will still need a works cited page.  Here is yet another link to the Purdue Owl, so that you can be sure to cite your material the right way and not have to deal with [[plagiarism]] issues.  
 [Formatting citations](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html)
 
-# Research Paper Guidelines
+# [[Research]] Paper Guidelines
 1. Your paper needs to be 5 pages, typed and double spaced, with 1" margins, and 12 point font.  You need to use a normal font, like Arial or Times New Roman, nothing funky!   Please put your name, the class time, and the title of your paper on the top left hand side of your paper.                                                                                                                
 2. Your topic needs to be on something that interests you, and concerns the time covered in this course, basically, U.S. History from 1585 to 1865. You will need to use at least 6 sources.  Three of them must be books, the rest can be online.  At least three sources must be primary, the rest secondary sources.  A primary source is one that is written during the time that your subject lived or your event occurred.   For instance, if you were going to write on the Salem Witch Trials, you could use the actual trial proceedings as a primary source.  A secondary source is one written after the fact, something like Carol Karlsen’s book _The Devil in the Shape of a Woman_. The Internet may be used with **a** **great deal of discretion**; not everything on a site may be historically accurate.  If you have questions about using the Internet, please contact me.                   
-3. You will need a bibliography (works cited) page and footnotes/endnotes. Unless you are a history major, you may use the MLA format for both.  If you are a history major, you will need to use the Chicago Manual style.  Both can be found at the Purdue Owl:
-4. [Link](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html "Link")
-5. [Links to an external site.](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html "Link")
-
-6. **Do NOT plagiarize**. Do NOT buy a research paper.   Everything must be in your own words; do not paraphrase someone else’s work and try to pass it off as your own.  That is still plagiarism, and you will fail if you do so.  Your papers must be written in Microsoft Word format, if they are submitted in any other format they will not be accepted, and you will receive a 0 for the assignment.  You also need to submit your work on time, as late papers will not be accepted either.                                                  
-7. If you would like any help with your paper, please email me; I will be happy to assist you whenever necessary!
+3. You will need a bibliography (works cited) page and footnotes/endnotes. Unless you are a history major, you may use the MLA format for both.  If you are a history major, you will need to use the Chicago Manual style.  Both can be found at the Purdue Owl:[Link](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html "Link")
+4. **Do NOT plagiarize**. Do NOT buy a [[research]] paper.   Everything must be in your own words; do not paraphrase someone else’s work and try to pass it off as your own.  That is still [[plagiarism]], and you will fail if you do so.  Your papers must be written in Microsoft Word format, if they are submitted in any other format they will not be accepted, and you will receive a 0 for the assignment.  You also need to submit your work on time, as late papers will not be accepted either.                                                  
+5. If you would like any help with your paper, please email me; I will be happy to assist you whenever necessary!
 
 # Primary Source Guidelines
 
@@ -58,7 +55,7 @@ In order to analyze a primary source you need information about two things: the 
 1. Look at the physical nature of your source. This is particularly important and powerful if you are dealing with an original source (i.e., an actual old letter, rather than a transcribed and published version of the same letter). What can you learn from the form of the source? (Was it written on fancy paper in elegant handwriting, or on scrap-paper, scribbled in pencil?) What does this tell you?
 2. Think about the purpose of the source. What was the author's message or argument? What was he/she trying to get across? Is the message explicit, or are there implicit messages as well?
 3. How does the author try to get the message across? What methods does he/she use?
-4. What do you know about the author? Race, sex, class, occupation, religion, age, region, political beliefs? Does any of this matter? How?
+4. What do you know about the author? [[Race]], sex, class, occupation, religion, age, region, political beliefs? Does any of this matter? How?
 5. Who constituted the intended audience? Was this source meant for one person's eyes, or for the public? How does that affect the source?
 6. What can a careful reading of the text (even if it is an object) tell you? How does the language work? What are the important metaphors or symbols? What can the author's choice of words tell you? What about the silences--what does the author choose NOT to talk about?
 

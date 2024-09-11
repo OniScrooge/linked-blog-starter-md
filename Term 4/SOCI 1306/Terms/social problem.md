@@ -1,0 +1,1 @@
+Any condition or behavior that has negative consequences for large numbers of people and that is generally recognized as a condition or behavior that needs to be addressed.

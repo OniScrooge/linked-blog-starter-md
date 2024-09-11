@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"954f58d67f8bd605","type":"text","text":"# Use the alternative form of the derivative to find the derivative at _x_ = _c_, if it exists","x":-260,"y":-220,"width":520,"height":160,"color":"2"},
+		{"id":"4cdbb8b11593a37c","type":"text","text":"Function: $$f(x)=x^3+3x^2+8$$","x":-320,"y":20,"width":278,"height":109,"color":"3"},
+		{"id":"e1c7eca9ce5c2a0f","type":"text","text":"$$c=-3$$","x":40,"y":20,"width":278,"height":107,"color":"3"},
+		{"id":"7de15b459463da32","x":-260,"y":220,"width":520,"height":720,"type":"text","text":"Plug into the Alternative Form equation: $$f'(-3)=\\lim_{ x \\to -3 } \\frac{x^3+3x^2+8-((-3)^3+3(-3)^2+8)}{x-(-3)}$$\nSolve the parenthesis: $$f'(-3)=\\lim_{ x \\to -3 }\\frac{x^3+3x^2+8-(-27+27+8)}{x+3}$$\n$$f'(-3)=\\lim_{ x \\to -3 }\\frac{x^3+3x^2+8-(8)}{x+3}$$\nSimplify numerator: $$f'(-3)=\\lim_{ x \\to -3 }\\frac{x^3+3x^2}{x+3}$$\nFactor to see if you can get rid of the denominator: $$f'(-3)=\\lim_{ x \\to -3 }\\frac{x^2(x+3)}{x+3}$$\nLike terms: $$f'(-3)=\\lim_{ x \\to -3 }x^2$$\nNow you can plug and solve: $$f'(-3)=\\lim_{ x \\to -3 }(-3)^2=9$$"},
+		{"id":"bbe1c283003b279e","x":-1040,"y":-290,"width":600,"height":300,"color":"5","type":"text","text":"2.1 The Derivative and the Tangent Line problem ![[2.1 The Derivative and the Tangent Line problem#^0e7cfd]]"},
+		{"id":"52d879d7e588a3b0","x":360,"y":493,"width":529,"height":175,"color":"4","type":"text","text":">[!success] Use the alternative form of the derivative to find the derivative at _x_ = _c_, if it exists\n>\n>It does exist, at __9__"}
+	],
+	"edges":[
+		{"id":"83e5c311eef5d6a3","fromNode":"954f58d67f8bd605","fromSide":"bottom","toNode":"4cdbb8b11593a37c","toSide":"top"},
+		{"id":"6a2922e09c459608","fromNode":"954f58d67f8bd605","fromSide":"bottom","toNode":"e1c7eca9ce5c2a0f","toSide":"top"},
+		{"id":"22417d9af6a64325","fromNode":"bbe1c283003b279e","fromSide":"right","toNode":"954f58d67f8bd605","toSide":"left"},
+		{"id":"9e9128b66bb8c0f2","fromNode":"bbe1c283003b279e","fromSide":"right","toNode":"7de15b459463da32","toSide":"left"},
+		{"id":"60f3e905c1220f33","fromNode":"4cdbb8b11593a37c","fromSide":"bottom","toNode":"7de15b459463da32","toSide":"top"},
+		{"id":"f309784a21ef4690","fromNode":"e1c7eca9ce5c2a0f","fromSide":"bottom","toNode":"7de15b459463da32","toSide":"top"},
+		{"id":"ae66ad4e156142fb","fromNode":"7de15b459463da32","fromSide":"right","toNode":"52d879d7e588a3b0","toSide":"left"}
+	]
+}

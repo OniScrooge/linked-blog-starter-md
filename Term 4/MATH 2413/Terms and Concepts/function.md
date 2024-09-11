@@ -1,0 +1,1 @@
+A set of ordered pairs where each first element is paired with one and only one second element and no element in either pair is without a partner.

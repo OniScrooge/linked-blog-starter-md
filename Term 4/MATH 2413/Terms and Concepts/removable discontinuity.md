@@ -1,0 +1,1 @@
+A removable discontinuity is **a point on the graph that is undefined or does not fit the rest of the graph**. There are two ways a removable discontinuity is created. One way is by defining a blip in the function and the other way is by the function having a common factor in both the numerator and denominator.

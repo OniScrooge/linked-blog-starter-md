@@ -1,0 +1,1 @@
+Field research in which the researcher merely observes a group or setting.
