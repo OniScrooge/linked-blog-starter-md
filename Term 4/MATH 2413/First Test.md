@@ -28,3 +28,53 @@
 >Plug back in and check: $$(4)^2-16=0$$
 >__4__ can't work, so that just leaves __-1__ which does.
 
+>[!faq]- Find the derivative of $y=\frac{x^3+8x+3}{\sqrt{ x }}$
+>Change denominator: $$=\frac{x^3+8x+3}{x^{\frac{1}{2}}}$$
+>Move to numerator: $$=x^3+8x+3+x^{\frac{-1}{2}}$$
+>[[2.2 Basic Differentiation rules#^f175ee]] Power rule: $$=x^3+8x+3-\frac{1}{2}x^{\frac{-3}{2}}$$
+>Move to denominator: $$\frac{3x^2+8x+3}{2x^{\frac{3}{2}}}$$
+
+>[!faq]- Find the limit of $\lim_{ n \to 4 }(x-[\mid x\mid])$
+>Find the [[1.4 Continuity and One-Sided Limits#^522e79]] __GIF__: $$[\mid(4)\mid]=3$$
+>Substitute and solve: $$(4)-(3)=1$$
+
+>[!faq]- Find the derivative of $f(x)=\frac{2}{^3\sqrt{ x }}+6\cos x$
+>Rewrite the denominator: $$\frac{2}{x^{\frac{1}{3}}}+6\cos x$$
+>Move to the numerator: $$2*\frac{1}{3}x^{-\frac{2}{3}}+6\cos x$$
+>Power rule: $$-\frac{2}{3}x^{-\frac{4}{3}}+6\cos x$$
+>Move to denominator and apply cosine derivative: $$-\frac{2}{3x^{\frac{4}{3}}}-6\sin x$$
+
+>[!faq]- Find the slope of $y=x^2+4x,x=7$
+>Find the derivative: $$=2x+4$$
+>Substitute in __7__ for __x__: $$=2(7)+4$$
+>Solve: $$=14+4$$
+>$$m=18$$
+
+>[!faq]- Find k in $$f(x)=\{ \begin{eqnarray*} & x^2,x\leq 3 \\ &x+k,x>3 \\  \end{eqnarray*}$$
+>Plug in: $$(3)^2=9$$
+>$$(3)+k$$
+>Set equal to __9__: $$3+k=9$$
+>$$k=6$$
+
+>[!faq]- Find the horizontal tangents of $f(x)=x^3-21x$
+>Differentiate: $$3x^2-21$$
+>Set equal to __0__: $$3x^2-21=0$$
+>Divide out __3__: $$x^2-7=0$$
+>Add __7__: $$x^2=7$$
+>Take the square: $$x=\sqrt{ 7 }$$
+>Substitute positive __x__ back into the function: $$(\sqrt{ 7 })^3-21(\sqrt{ 7 })$$
+>Simplify: $$7\sqrt{ 7 }-21\sqrt{ 7 }=-14\sqrt{ 7 }$$
+>Substitute negative x back into the function: $$(-\sqrt{ 7 })^3-21(-\sqrt{ 7 })$$
+>Simplify: $$-7\sqrt{ 7 }+21\sqrt{ 7 }=14\sqrt{ 7 }$$
+>The horizontal tangent points are at: $(\sqrt{ 7 },-14\sqrt{ 7 })(-\sqrt{ 7 },14\sqrt{ 7 })$
+
+>[!faq]- Find the derivative using $\lim_{ x \to c }\frac{f(x)-f(c)}{x-c}$, $c=1$, $f(x)=10\sqrt{ x }$
+>Get $f(c)$: $$f(c)=10*\sqrt{ (1) }=10*1=10$$
+>Plug in: $$f'(1)=\frac{10\sqrt{ x }-10}{x-1}$$
+>Simplify: $$\lim_{ x \to 1 }\frac{10(\sqrt{ x }-1)}{x-1}$$
+>$$\lim_{ x \to 1 } \frac{10(\sqrt{ x }-1)(\sqrt{ x }-1)}{(x-1)(\sqrt{ x }+1)}$$
+>$$\lim_{ x \to 1 } \frac{10(x-1)}{(x-1)(x+1)}$$
+>$$\lim_{ x \to 1 } \frac{10}{\sqrt{ x }+1}$$
+>Evaluate: $$\lim_{ x \to 1 } \frac{10}{\sqrt{ 1 }+1}$$
+>$$\lim_{ x \to 1 } \frac{10}{2}=5$$
+
