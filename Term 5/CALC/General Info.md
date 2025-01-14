@@ -1,0 +1,3 @@
+- Study homework
+- No calculators
+- Spend the most time on this class
