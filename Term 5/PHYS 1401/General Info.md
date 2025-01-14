@@ -37,15 +37,13 @@ List of Equipment in the Lab Kit and their pictures. 
 
 Download CAPSTONE Software:     [www.pasco.com/downloads/capstone](http://www.pasco.com/downloads/capstone)
 
-Capstone License Number for HCC: Serial: LIC00014069               
+Capstone License Number for HCC: 
+- Serial: LIC00014069               
+- Item Number: UI-5406-DIG                
+- License: 1b03m-820vg-me9r1-itidb-21gp6-oke1m
+- For zip code use 77002
 
-Item Number: UI-5406-DIG                
-
-   License: 1b03m-820vg-me9r1-itidb-**21gp6-oke1m**   
-
-   For zip code use 77002
-
-Getting started with Capstone:          [https://youtu.be/9EO4l3q3pJg](https://youtu.be/9EO4l3q3pJg)
+Getting started with Capstone: [https://youtu.be/9EO4l3q3pJg](https://youtu.be/9EO4l3q3pJg)
 
 PASTract assembly: [https://edutube.hccs.edu/media/1-PASTrack%20and%20Accessories/1_edpfht0b](https://edutube.hccs.edu/media/1-PASTrack%20and%20Accessories/1_edpfht0b)
 
