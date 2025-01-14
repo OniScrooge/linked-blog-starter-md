@@ -1,0 +1,1 @@
+An object of a derived class can be passed wherever an object of a base type parameter is required. Thus a function can be used generically for a wide range of object arguments.

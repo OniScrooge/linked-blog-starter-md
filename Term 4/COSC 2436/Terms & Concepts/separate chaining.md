@@ -1,0 +1,1 @@
+A hashing scheme that places all entries with the same hash index into the same location, rather than finding new locations. Each location in the separate chaining scheme is called a bucket, which is a container that holds multiple entries.

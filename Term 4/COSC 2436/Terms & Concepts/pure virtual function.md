@@ -1,0 +1,1 @@
+A function declaration without implementation. Also known as an __abstract function__

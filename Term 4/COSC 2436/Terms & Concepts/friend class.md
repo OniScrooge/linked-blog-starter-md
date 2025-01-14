@@ -1,0 +1,1 @@
+Can access private members of a class

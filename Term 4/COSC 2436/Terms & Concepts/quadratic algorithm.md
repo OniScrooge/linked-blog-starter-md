@@ -1,0 +1,1 @@
+An algorithm with the $O(n^2)$ time complexity

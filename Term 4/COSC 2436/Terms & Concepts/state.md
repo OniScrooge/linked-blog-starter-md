@@ -1,0 +1,1 @@
+The current values of data fields in an object

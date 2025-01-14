@@ -1,0 +1,1 @@
+Each class involved in an association may specify how many of the class’s objects are involved in the relationship in UML

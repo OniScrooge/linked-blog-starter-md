@@ -1,0 +1,1 @@
+When the load factor of a hash table is exceeded and reloaded into a new, larger hash table.

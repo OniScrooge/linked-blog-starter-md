@@ -1,0 +1,1 @@
+Can be declared to modify the original function to receive parameters so it can be invoked recursively

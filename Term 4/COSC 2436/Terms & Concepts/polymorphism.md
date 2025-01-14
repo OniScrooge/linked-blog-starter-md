@@ -1,0 +1,1 @@
+Refers to the feature that an object of a [[subclass]] can be used by any code designed to work with an object of its [[superclass]]

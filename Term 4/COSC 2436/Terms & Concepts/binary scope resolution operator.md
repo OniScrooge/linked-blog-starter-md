@@ -1,0 +1,1 @@
+(::) Qualifies the scope for a member in class

@@ -1,0 +1,1 @@
+Redefines a virtual function

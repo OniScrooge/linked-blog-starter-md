@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"dab8f8f568a91556","type":"text","text":"# Find the points at which the graph of the equation has a vertical or horizontal tangent line\n\n$$64x^2+49y^2+896x-784y+3136=0$$\nHorizontal Tangents: \n- Smaller: $(x,y)=$\n- Larger: $(x,y)=$\n\nVertical Tangents:\n- Smaller: $(x,y)=$\n- Larger: $(x,y)=$","x":-300,"y":-300,"width":620,"height":460,"color":"2"},
+		{"id":"b6c2da4e1ffd8da2","type":"text","text":"## Rewrite in a more standard form\nWe will complete the square for both _x_ and _y_ terms to convert this into a recognizable conic section (an ellipse). Let's start by grouping the _x_ and _y_ terms:\n$$64\\left( x^2+\\frac{896}{64}​x \\right)+49\\left( y^2−\\frac{784}{49}​y \\right)=−3136$$\nSimplify the constants: $$64(x^2+14x)+49(y^2-16y)=-3136$$\n","x":-300,"y":260,"width":620,"height":340},
+		{"id":"f3f1dacbcb6ca615","type":"text","text":"## Substitute back into equation\n$$64((x+7)^2-49)+49((y-8)^2-64)=-3136$$\nDistribute constants: $$64(x+7)^2-3136=49(y-8)^2-3136=-3136$$\nCombine like terms: $$64(x+7)^2+49(y-8)^2=1$$\nDivide: $$\\frac{(x+7)^2}{49}+\\frac{(y-8)^2}{64}=1$$","x":-300,"y":960,"width":620,"height":400},
+		{"id":"9bd1e4bc875fd301","type":"text","text":"## Identify points with horizontal and vertical tangents\n\n- **Horizontal tangents** occur when the slope of the tangent is zero, meaning _y_ is at a maximum or minimum.\n    - The center of the ellipse is $(−7,8)$.\n    - The semi-major axis is along the _y_-axis (since $64 > 49$).\n    - The distance from the center to the extremities of the ellipse along the _y_-axis is 8 units (since the denominator under _y_ is 64).\n    - The horizontal tangents occur at $y=8+8=16$ and $y=8−8=0$, at points $(−7,16)$ and $(−7,0)$.\n\n- **Vertical tangents** occur when _x_ is at a maximum or minimum.\n    - The distance from the center to the extremities along the xxx-axis is 7 units (since the denominator under __x__ is 49).\n    - The vertical tangents occur at $x=−7+7=0$ and $x=−7−7=−14$, at points $(0,8)$ and $(−14,8)$.\n\n### Final Answer:\n- **Horizontal tangents**:\n    - Smaller y-value: $(−7,0)$\n    - Larger y-value: $(−7,16)$\n- **Vertical tangents**:\n    - Smaller x-value: $(−14,8)$\n    - Larger x-value: $(0,8)$","x":-300,"y":1460,"width":620,"height":860,"color":"4"},
+		{"id":"7340905609c98caa","type":"text","text":"$$x^2+14x$$\n$$(x+7)^2-49$$\n","x":-320,"y":682,"width":310,"height":177},
+		{"id":"82529c8b90f7b8a6","type":"text","text":"$$y^2-16y$$\n$$(y-8)^2-64$$","x":40,"y":682,"width":310,"height":177}
+	],
+	"edges":[
+		{"id":"25bb16ee4efcf98f","fromNode":"dab8f8f568a91556","fromSide":"bottom","toNode":"b6c2da4e1ffd8da2","toSide":"top"},
+		{"id":"64c7c2fdc1bab8f7","fromNode":"b6c2da4e1ffd8da2","fromSide":"bottom","toNode":"7340905609c98caa","toSide":"top"},
+		{"id":"073f4b50229b2349","fromNode":"b6c2da4e1ffd8da2","fromSide":"bottom","toNode":"82529c8b90f7b8a6","toSide":"top"},
+		{"id":"42531a5e6b5ebc34","fromNode":"7340905609c98caa","fromSide":"bottom","toNode":"f3f1dacbcb6ca615","toSide":"top"},
+		{"id":"15f9cee12806b0c8","fromNode":"82529c8b90f7b8a6","fromSide":"bottom","toNode":"f3f1dacbcb6ca615","toSide":"top"},
+		{"id":"5cf9b261373919ae","fromNode":"f3f1dacbcb6ca615","fromSide":"bottom","toNode":"9bd1e4bc875fd301","toSide":"top"}
+	]
+}

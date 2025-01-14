@@ -1,0 +1,1 @@
+A type defined by its [[base class]]

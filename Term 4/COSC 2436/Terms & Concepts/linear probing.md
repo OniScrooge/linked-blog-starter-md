@@ -1,0 +1,1 @@
+A technique for handling collision. When a collision occurs during the insertion of an entry to a hash table, linear probing finds the next available location sequentially.

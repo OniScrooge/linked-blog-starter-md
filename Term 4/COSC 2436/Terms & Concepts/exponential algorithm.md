@@ -1,0 +1,1 @@
+When execution time for an algorithm increases as the input size increases. It is notated as 0(Cn)

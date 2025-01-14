@@ -1,0 +1,1 @@
+A function that maps each search key to a different index in the hash table.

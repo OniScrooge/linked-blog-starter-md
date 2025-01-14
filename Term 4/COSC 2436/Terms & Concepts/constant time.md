@@ -1,0 +1,1 @@
+The [[Big-O notation]] estimates the execution time of an algorithm in relation to the input size. If the time is not related to the input size, the algorithm is said to take __constant time__ with the notation of _O_(_1_).

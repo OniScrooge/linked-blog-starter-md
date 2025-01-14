@@ -1,0 +1,1 @@
+Measures how full a hash table is. It is the ratio of the number of elements to the size of the hash table.

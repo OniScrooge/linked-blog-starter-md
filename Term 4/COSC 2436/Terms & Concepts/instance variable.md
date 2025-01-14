@@ -1,0 +1,1 @@
+A nonstatic data member of a class. An instance variable belongs to an instance of the class.

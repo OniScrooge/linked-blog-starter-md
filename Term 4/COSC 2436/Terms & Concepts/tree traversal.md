@@ -1,0 +1,1 @@
+The process of visiting each node in the tree exactly once. There are several ways to traverse a tree. This section presents [[inorder]], [[preorder]], [[postorder]], _depth-first_, and _breadth-first_ traversals.

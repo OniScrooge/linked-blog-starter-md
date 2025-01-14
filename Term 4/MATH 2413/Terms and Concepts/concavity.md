@@ -1,0 +1,1 @@
+![[3.4 Concavity and the Second Derivative Test#^c586d5]]

@@ -1,0 +1,1 @@
+Refers to a named item that persists beyond a single expression

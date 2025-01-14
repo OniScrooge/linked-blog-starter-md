@@ -1,0 +1,1 @@
+A constructor without arguments

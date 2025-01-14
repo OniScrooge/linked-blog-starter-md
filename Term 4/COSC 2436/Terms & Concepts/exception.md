@@ -1,0 +1,1 @@
+An unexpected event indicating that a program has failed in some way. They can be handled in `try-catch` blocks.

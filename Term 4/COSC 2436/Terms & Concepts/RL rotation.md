@@ -1,0 +1,1 @@
+An _RL imbalance_ occurs at a node `A` such that `A` has a [[balance factor]] `+2` and a right child `B` with a [[balance factor]] `-1`, as shown in **Figure 25.6a**. Assume `B`’s left child is `C`. This type of imbalance can be fixed by performing a double [[rotation]] at `A` (first a single right [[rotation]] at `B` and then a single left [[rotation]] at `A`).

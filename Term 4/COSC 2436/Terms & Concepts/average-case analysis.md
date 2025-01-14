@@ -1,0 +1,1 @@
+Attempts to determine the average amount of time among all possible inputs of the same size

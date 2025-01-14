@@ -1,0 +1,1 @@
+Static variables store values for the variables in a common memory location. Accordingly, all objects of the same class are affected if one object changes the value of a static variable.

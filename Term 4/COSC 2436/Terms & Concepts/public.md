@@ -1,0 +1,1 @@
+A modifier for classes, data, and functions that can be accessed by all programs

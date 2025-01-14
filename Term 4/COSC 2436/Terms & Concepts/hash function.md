@@ -1,0 +1,1 @@
+The function that maps a key to an index in the hash table.

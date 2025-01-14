@@ -1,0 +1,1 @@
+Permits access to a member in an object

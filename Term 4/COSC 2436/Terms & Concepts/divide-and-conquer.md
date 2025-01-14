@@ -1,0 +1,1 @@
+Divides the problems into subproblems, solves the subproblems, then combines the solutions of the subproblems to obtain the solution of the entire problem. Unlike the [[dynamic programming]] approach, the subproblems in the divide-and-conquer approach don't overlap. A subproblem is smaller in size than the original problem and can be solved by applying recursion.

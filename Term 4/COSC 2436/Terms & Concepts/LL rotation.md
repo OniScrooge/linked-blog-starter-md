@@ -1,0 +1,1 @@
+An _LL imbalance_ occurs at a node `A` such that `A` has a balance factor `-2` and a left child `B` with a balance factor `-1` or `0`, as shown in **Figure 25.3a**. This type of imbalance can be fixed by performing a single right rotation at `A`.

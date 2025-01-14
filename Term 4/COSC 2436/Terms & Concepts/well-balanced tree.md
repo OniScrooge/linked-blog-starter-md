@@ -1,0 +1,1 @@
+Occurs when the height of the subtrees for each node is about the same, or $O(\log n)$.

@@ -1,0 +1,1 @@
+In C++, examples of common classes for exceptions include `runtime_error` and `overflow_error`.

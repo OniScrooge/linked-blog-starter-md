@@ -1,0 +1,1 @@
+Uses a secondary hash function h'(key) on the keys to determine the increments to avoid the clustering problem.

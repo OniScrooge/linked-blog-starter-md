@@ -1,0 +1,1 @@
+A function used for obtaining an integer value derived from an object.

@@ -1,0 +1,1 @@
+The height of a node's right subtree minus the height of the node's left subtree.

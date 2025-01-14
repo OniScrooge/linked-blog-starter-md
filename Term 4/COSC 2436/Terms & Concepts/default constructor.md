@@ -1,0 +1,1 @@
+Occurs when a class does not define any constructors explicitly and a no-arg constructor with empty body is assumed

@@ -1,0 +1,1 @@
+A polygon in which every line connecting two vertices is inside the polygon

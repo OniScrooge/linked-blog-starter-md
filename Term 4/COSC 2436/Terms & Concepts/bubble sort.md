@@ -1,0 +1,1 @@
+An algorithm that makes several passes through the array. On each pass, successive neighboring pairs are compared. If a pair is in decreasing order, its values are swapped; otherwise, the values remain unchanged. Smaller values gradually "Bubble" their way to the top ad the larger values sink to the bottom.

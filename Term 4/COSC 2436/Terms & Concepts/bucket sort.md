@@ -1,0 +1,1 @@
+A sort wherein each bucket labeled in the range from 0 to $N-1$ holds elements with the same key value

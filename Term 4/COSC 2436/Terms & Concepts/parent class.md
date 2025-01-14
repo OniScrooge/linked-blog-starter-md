@@ -1,0 +1,1 @@
+Serves as a base for defining a derived class and is the same as a base class

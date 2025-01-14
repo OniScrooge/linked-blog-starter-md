@@ -1,16 +1,12 @@
 # Basics
 My name is Shailaja Menon and here is my contact information:
-
 - Email: Use canvas (inbox) email ONLY for communication
 - Phone : 713 718 2404 (please leave a message)  
-    
 - Office hours: Virtual (online) Friday 8 am-1 pm.  Please send an email in canvas to set up an appointment. The best way to reach me is via Canvas. I will do my best to answer all student emails within 48 hours. 
 
 **Required text book:**
-
 Textbook: We will use a free e-book – “Social Problems: Continuity and Change”Pub Date: 2016. ISBN 13: 978-1-9461352-3-0 Publisher: University of Minnesota Libraries Publishing
-
-Link for the e-book:[https://open.umn.edu/opentextbooks/BookDetail.aspx?bookId=141](https://open.umn.edu/opentextbooks/BookDetail.aspx?bookId=141)
+[Link for the e-book](https://socialsci.libretexts.org/Bookshelves/Social_Work_and_Human_Services/Social_Problems_-_Continuity_and_Change)
 
 # Discussions
 Discussion with your classmates is a vital part of learning online. In this course, you will participate in at least one class discussion in each module. Some modules have more than one discussion. These discussions are an imperative portion of the course as they are meant to replicate the discussions that would take place as if we were in a classroom.  

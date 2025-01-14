@@ -1,0 +1,1 @@
+An algorithm with the 0(n2) time complexity

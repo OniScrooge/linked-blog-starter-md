@@ -1,0 +1,1 @@
+The copy constructor, the = assignment operator, and the destructor; also known as the __Big Three__

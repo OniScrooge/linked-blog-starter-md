@@ -1,0 +1,1 @@
+A node with a balance factor of $x<0$.

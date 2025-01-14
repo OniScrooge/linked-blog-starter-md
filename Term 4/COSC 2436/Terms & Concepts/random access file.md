@@ -1,0 +1,1 @@
+The file that can be both read and written in any order

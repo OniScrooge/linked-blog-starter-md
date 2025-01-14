@@ -1,0 +1,1 @@
+With preorder traversal, the current node is visited recursively first, then the left subtree of the current node, and finally the right subtree of the current node. Depth-first traversal is the same as preorder traversal, as shown in **Figure 21.5c**.

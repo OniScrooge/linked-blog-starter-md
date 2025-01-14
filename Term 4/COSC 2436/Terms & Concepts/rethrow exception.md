@@ -1,0 +1,1 @@
+After an [[exception]] has been caught in a `catch` clause, it may be reexamined and thrown again.

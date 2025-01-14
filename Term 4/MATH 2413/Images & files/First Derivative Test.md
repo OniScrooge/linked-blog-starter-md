@@ -1,0 +1,1 @@
+![[3.3 Increasing and Decreasing Functions and the First Derivative Test#^8a61e8]]

@@ -1,0 +1,1 @@
+When constructing an instance of a class invokes all of the constructors, chaining base classes along the inheritance chain

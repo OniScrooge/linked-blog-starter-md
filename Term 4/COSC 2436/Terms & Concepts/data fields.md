@@ -1,0 +1,1 @@
+Represents data in an object

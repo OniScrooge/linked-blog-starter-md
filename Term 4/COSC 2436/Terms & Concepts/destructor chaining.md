@@ -1,0 +1,1 @@
+When destructing an instance of a class invokes all the destructors along the inheritance chain with the derived class's destructor invoked first

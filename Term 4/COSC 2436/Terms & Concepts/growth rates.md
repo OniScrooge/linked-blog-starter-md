@@ -1,0 +1,1 @@
+Measures how fast the time complexity of an algorithm grows as the input size grows

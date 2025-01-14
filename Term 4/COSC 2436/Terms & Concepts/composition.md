@@ -1,0 +1,1 @@
+Is where the existence of the aggregated object is dependent on the aggregating object.

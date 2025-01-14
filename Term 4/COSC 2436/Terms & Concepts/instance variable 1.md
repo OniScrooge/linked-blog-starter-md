@@ -1,0 +1,1 @@
+An instance variable is tied to a specific instance of the class; it is not shared among objects of the same class.

@@ -1,0 +1,1 @@
+Declares a new class by extending an existing class

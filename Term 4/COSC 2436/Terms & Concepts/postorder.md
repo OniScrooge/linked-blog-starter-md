@@ -1,0 +1,1 @@
+With postorder traversal, the left subtree of the current node is visited recursively first, then the right subtree of the current node, and finally the current node itself, as shown in **Figure 21.5b**.

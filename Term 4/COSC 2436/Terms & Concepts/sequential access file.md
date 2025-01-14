@@ -1,0 +1,1 @@
+The file is read or written sequentially from beginning to end

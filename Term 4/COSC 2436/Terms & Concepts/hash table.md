@@ -1,0 +1,1 @@
+An array that stores the elements whose keys are mapped to an integer as the indexes of the array.

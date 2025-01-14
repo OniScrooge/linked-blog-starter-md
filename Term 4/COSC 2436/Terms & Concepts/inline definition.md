@@ -1,0 +1,1 @@
+When the compiler copies the function code in line at the point of each invocation

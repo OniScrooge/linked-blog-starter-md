@@ -1,0 +1,1 @@
+A [[function]] declared with the keyword `virtual`. In C++, redefining a virtual [[function]] in a [[derived class]] is called [[overriding a function]]

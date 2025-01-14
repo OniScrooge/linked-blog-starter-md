@@ -1,0 +1,1 @@
+An algorithmic approach that solves a problem in the simplest or most direct or obvious way.

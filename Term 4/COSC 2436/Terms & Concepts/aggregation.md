@@ -1,0 +1,1 @@
+The owner object is called an aggregating object, and its class is called an aggregating class. The subject object is called an _aggregated object_, and its class is called an _aggregated class_.

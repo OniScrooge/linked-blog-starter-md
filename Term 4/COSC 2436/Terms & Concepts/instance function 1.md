@@ -1,0 +1,1 @@
+A function that can only be called from a specific instance.

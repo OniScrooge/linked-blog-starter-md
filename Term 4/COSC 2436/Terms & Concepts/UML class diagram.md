@@ -1,0 +1,1 @@
+A graphical notation for describing classes

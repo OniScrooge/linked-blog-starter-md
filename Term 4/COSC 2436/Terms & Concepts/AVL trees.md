@@ -1,0 +1,1 @@
+A well balanced binary tree where the difference between the heights of two subtrees for every node is 0 or 1.

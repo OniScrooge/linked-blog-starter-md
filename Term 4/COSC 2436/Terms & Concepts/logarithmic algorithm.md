@@ -1,0 +1,1 @@
+An algorithm with the $O(\log n)$ time complexity

@@ -1,0 +1,1 @@
+(.) Accesses members of an object. If the member is static, it can be accessed through the class name using the dot operator.

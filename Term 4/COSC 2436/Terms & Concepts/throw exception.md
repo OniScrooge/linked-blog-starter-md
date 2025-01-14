@@ -1,0 +1,1 @@
+E.g. when an [[exception]] is raised, it is said to be _thrown_.

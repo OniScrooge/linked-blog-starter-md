@@ -1,0 +1,1 @@
+A function that can be called without creating an instance of the class

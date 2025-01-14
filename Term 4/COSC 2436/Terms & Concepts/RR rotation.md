@@ -1,0 +1,1 @@
+An _RR imbalance_ occurs at a node `A` such that `A` has a balance factor `+2` and a right child `B` with a balance factor `+1` or `0`, as shown in **Figure 25.4a**. This type of imbalance can be fixed by performing a single left rotation at `A`.

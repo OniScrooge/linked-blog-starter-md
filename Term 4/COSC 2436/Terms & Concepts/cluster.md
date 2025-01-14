@@ -1,0 +1,1 @@
+Groups of consecutive cells in the hash table during linear probing to be occupied.

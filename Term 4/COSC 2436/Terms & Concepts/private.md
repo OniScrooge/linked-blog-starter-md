@@ -1,0 +1,1 @@
+A modifier for members of a class. A private member can only be referenced inside the class.

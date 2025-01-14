@@ -1,0 +1,1 @@
+With inorder traversal, the left subtree of the current node is recursively visited first, then the current node, and finally the right subtree of the current node. The inorder traversal displays all the nodes in a BST in increasing order, as shown in **Figure 21.5a**.

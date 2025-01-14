@@ -1,0 +1,1 @@
+A hierarchical structure. It either is empty or consists of an element, called the _root_, and two distinct binary trees, called the _left subtree_ and _right subtree_, either or both of which may be empty.

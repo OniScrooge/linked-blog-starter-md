@@ -1,0 +1,1 @@
+The process of finding an open location in the hash table in the event of collision.

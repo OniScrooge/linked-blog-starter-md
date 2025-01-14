@@ -1,0 +1,1 @@
+An integer value derived from a key.

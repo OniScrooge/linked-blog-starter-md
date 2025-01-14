@@ -1,0 +1,1 @@
+An encapsulated collection of data and functions that operate on data. A class may be instantiated to create an object.

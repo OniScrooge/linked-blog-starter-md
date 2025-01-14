@@ -1,0 +1,1 @@
+A class inherited by a [[subclass]]

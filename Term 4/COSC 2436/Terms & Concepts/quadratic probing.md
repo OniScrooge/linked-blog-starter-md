@@ -1,0 +1,1 @@
+Avoids the clustering problem that can occur in linear probing by examining the cells at indices __k__ + a quadratic number.

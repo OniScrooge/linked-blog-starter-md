@@ -1,0 +1,1 @@
+This algorithm divides an array into two halves and applies merge sort on each half recursively. After the two halves are sorted, they can be merged.

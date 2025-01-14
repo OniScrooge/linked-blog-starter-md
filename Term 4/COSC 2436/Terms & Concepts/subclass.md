@@ -1,0 +1,1 @@
+Another term for a derived class

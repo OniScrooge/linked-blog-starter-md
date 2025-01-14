@@ -1,0 +1,1 @@
+A binary tree with every level full. If the last level is not full, its leave are places leftmost on that level.

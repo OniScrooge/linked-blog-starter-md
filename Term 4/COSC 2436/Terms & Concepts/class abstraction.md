@@ -1,0 +1,1 @@
+A technique in software development that hides detailed implementation. Class abstraction hides the implementation of the class from the client. If the implementation changes, the client program will not be affected.

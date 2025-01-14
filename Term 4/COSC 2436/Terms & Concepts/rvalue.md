@@ -1,0 +1,1 @@
+Refers to an unnamed value that disappears after it is used in the expression

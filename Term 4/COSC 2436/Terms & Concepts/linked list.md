@@ -1,0 +1,1 @@
+A list where each element is contained in a structure called the node. All the nodes, one for each unique element, are chained through pointers.

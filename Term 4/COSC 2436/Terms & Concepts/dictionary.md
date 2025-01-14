@@ -1,0 +1,1 @@
+Same as a map, which maps keys to values.

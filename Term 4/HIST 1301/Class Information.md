@@ -22,7 +22,7 @@ Basically summarize the paper in 3-5 sentences. 
 You are going to tell me what you’re going to say in your paper (INTRODUCTION, THESIS), say it (BODY), and then tell me what you just said (CONCLUSION).   😊
 
 It is very important that you cite your sources properly in the text.  The citation comes immediately after the quote or fact that you use, and needs to include the author's name and page number of the book/article you got your information from.  You will still need a works cited page.  Here is yet another link to the Purdue Owl, so that you can be sure to cite your material the right way and not have to deal with [[plagiarism]] issues.  
-[Formatting citations](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html)
+[Formatting citations](https://owl.purdue.edu/owl/[[research]]_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html)
 
 # [[Research]] Paper Guidelines
 1. Your paper needs to be 5 pages, typed and double spaced, with 1" margins, and 12 point font.  You need to use a normal font, like Arial or Times New Roman, nothing funky!   Please put your name, the class time, and the title of your paper on the top left hand side of your paper.                                                                                                                

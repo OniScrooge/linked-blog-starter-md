@@ -1,0 +1,1 @@
+An algorithm with the 0(log n) time complexity

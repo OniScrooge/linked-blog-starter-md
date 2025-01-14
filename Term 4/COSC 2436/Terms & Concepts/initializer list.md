@@ -1,0 +1,1 @@
+A method of initializing multiple data fields in a constructor.

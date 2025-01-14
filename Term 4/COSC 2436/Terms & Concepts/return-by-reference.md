@@ -1,0 +1,1 @@
+Function as an alias to a variable by returning a reference

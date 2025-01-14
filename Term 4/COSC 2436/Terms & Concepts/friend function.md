@@ -1,0 +1,1 @@
+A non-member function that can access private members of a class

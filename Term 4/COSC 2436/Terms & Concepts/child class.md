@@ -1,0 +1,1 @@
+A derived class from a bass class

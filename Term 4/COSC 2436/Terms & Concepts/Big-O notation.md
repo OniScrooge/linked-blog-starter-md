@@ -1,0 +1,1 @@
+Comparing algorithms by measuring their [[growth rates]]. In this notation, constants and smaller terms can be ignored in favor of focusing on dominating terms.

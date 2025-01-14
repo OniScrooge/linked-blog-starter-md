@@ -1,0 +1,1 @@
+A nonstatic function in a class. Instance functions belong to instances and can only be invoked by them.

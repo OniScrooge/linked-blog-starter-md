@@ -1,0 +1,1 @@
+The process of solving subproblems, then combining the solutions of the subproblems to obtain an overall solution. This naturally leads to a recursive solution.
