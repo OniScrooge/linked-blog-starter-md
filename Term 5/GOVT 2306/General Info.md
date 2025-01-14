@@ -10,8 +10,6 @@ You must fully address all questions on assignments, discussions, quizzes and ex
 
 **Deadlines are at** **11:59PM!**  This is noted throughout the course and there are NO late submissions.
 
-Hope this is helpful.
-
 This is a very busy introductory week.  We will focus on completing the following:
 
 - **_Start Here Quiz_** and **_Welcome Discussion_** due on **January 15 by 11:59PM**
@@ -28,4 +26,12 @@ Students MUST read the assigned chapters in the textbook/ebook and review the in
 
 Please use the Inbox feature in the course to send me messages.  If you post comments/replies or use external email, I usually do not receive these in a timely manner.  All email communication needs to be sent using Inbox. 
 
-Have a great week.
+**Do not copy any information on submissions in this course.**   _This means do not quote or use direct wording from other sources._  The system will let you know the percentage of your submission that is similar to other submissions.
+
+This class has numerous reminders (homepage, course syllabus, module area required materials, posts in Announcements) to help students with course requirements.  When you submit your materials in the designated areas prior to the deadlines, the system indicates what percentage is similar to other sources.  Thus, my reminders to not copy any materials on submissions in this course. 
+
+If students have more than 50% of the submission flagged after accounting for original questions and citations, then this is noted. As per course information, students should not copy any information on submissions. Students can summarize information in their own words, but not directly copy any information (even in quotations).  
+
+Additionally, students need to cite sources on the graded assignments ONLY.  Do not cite on exams and quizzes since students should not be leaving the testing area once started.  _Students can place the citations at the end of each question or at the bottom of the submission in a works cited, with a clear, full listing of sources used._ 
+
+**Example for citing GA:**  On the Graded Assignment,  students have to cite/document the sources used (_Texas Constitution and Statutes - Home_. [https://statutes.capitol.texas.gov/](https://statutes.capitol.texas.gov/). Accessed on July 2, 2023.).  There is help for citations/documentation in the Graded Assignments module.  Zoterobib cites your links for you.
