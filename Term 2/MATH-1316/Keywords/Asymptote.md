@@ -1,0 +1,1 @@
+An asymptote is **a straight line that constantly approaches a given curve but does not meet at any infinite distance**. In other words, Asymptote is a line that a curve approaches as it moves towards infinity. The curves visit these asymptotes but never overtake them.
