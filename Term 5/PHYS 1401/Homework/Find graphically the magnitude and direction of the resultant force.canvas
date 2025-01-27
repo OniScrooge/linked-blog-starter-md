@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"de2935e6ab1d6ae8","x":-231,"y":20,"width":462,"height":200,"color":"2","type":"text","text":"# Given\n- _F1_ = 5.90 units at $\\theta=28.0\\degree$ above the positive x-axis\n- _F2_ = 5.00 units in the positive y-direction"},
+		{"id":"dfd31e38f859ec7e","x":-483,"y":320,"width":383,"height":180,"color":"3","type":"text","text":"# Resolve _F1_\n$F_{1x}=F_{1}\\cos \\theta=5.90\\cos(28.0)$\n$F_{1y}=F_{1}\\sin \\theta=5.90\\sin(28.0)$"},
+		{"id":"ca10b84e388f3769","x":-264,"y":580,"width":528,"height":300,"color":"2","type":"text","text":"# Combine components of _F1_ and _F2_\n- $F_{2x}=0$\n- $F_{2y}$=5.00\n$$R_{x}=F_{1x}+F_{2x}=F_{1x}$$\n$$R_{y}=F_{1y}+F_{2y}$$"},
+		{"id":"db2f1a3d5d3a043a","x":-560,"y":960,"width":515,"height":140,"color":"5","type":"text","text":"# Magnitude of the resultant force\n$$R=\\sqrt{ R^2_{x}+R^2_{y} }$$"},
+		{"id":"9e19ef14f5767451","x":-132,"y":1680,"width":264,"height":158,"color":"4","type":"text","text":"# Answer\nMagnitude - $9.35$\nDirection - $56.3\\degree$"},
+		{"id":"da6cc8435179b912","x":-380,"y":-400,"width":760,"height":320,"color":"2","type":"text","text":"# A force _F1_ of magnitude _5.90_ units acts on an object at the origin in a direction _𝜃 = 28.0°_ above the positive _x_-axis. (See the figure below.) A second force *F2* of magnitude _5.00_ units acts on the object in the direction of the positive _y_-axis. Find graphically the magnitude and direction of the resultant force*F1 + F2*."},
+		{"id":"58e8765ada46853b","x":-302,"y":1200,"width":604,"height":420,"color":"2","type":"text","text":"# Calculations\n$F_{1x}=5.90\\cos(28.0)=5.20$\n$F_{1y}=5.90\\sin(28.0)=2.77$\n$R_{x}=5.90,R_{y}=2.77+5.00=7.77$\n- Magnitude $$R=\\sqrt{ (5.20)^2+(7.77)^2 }=\\sqrt{ 27.04+60.37 }=\\sqrt{ 87.41 }\\approx9.35$$\n- Direction $$\\phi=\\tan^{-1}\\left( \\frac{7.77}{5.20} \\right)=\\tan^{-1}(1.494)\\approx 56.3\\degree$$"},
+		{"id":"12fba252e79298da","x":62,"y":960,"width":480,"height":140,"color":"5","type":"text","text":"# Direction of the resultant force\n$$\\phi=\\tan^{-1}\\left( \\frac{R_{y}}{R_{x}} \\right)$$"}
+	],
+	"edges":[
+		{"id":"8de89c87087965dd","fromNode":"da6cc8435179b912","fromSide":"bottom","toNode":"de2935e6ab1d6ae8","toSide":"top"},
+		{"id":"e868aa4a30f46f20","fromNode":"de2935e6ab1d6ae8","fromSide":"bottom","toNode":"dfd31e38f859ec7e","toSide":"top"},
+		{"id":"770d90003469c210","fromNode":"de2935e6ab1d6ae8","fromSide":"bottom","toNode":"ca10b84e388f3769","toSide":"top"},
+		{"id":"0dcf0c1ebf7592b9","fromNode":"dfd31e38f859ec7e","fromSide":"bottom","toNode":"ca10b84e388f3769","toSide":"top"},
+		{"id":"de3768458520b56a","fromNode":"ca10b84e388f3769","fromSide":"bottom","toNode":"58e8765ada46853b","toSide":"top"},
+		{"id":"47c99ee2e8e4d6d0","fromNode":"ca10b84e388f3769","fromSide":"bottom","toNode":"db2f1a3d5d3a043a","toSide":"top"},
+		{"id":"960fe9b725e70e4f","fromNode":"db2f1a3d5d3a043a","fromSide":"bottom","toNode":"58e8765ada46853b","toSide":"top"},
+		{"id":"574db88b0e9ebe73","fromNode":"ca10b84e388f3769","fromSide":"bottom","toNode":"12fba252e79298da","toSide":"top"},
+		{"id":"c87f9cec78751244","fromNode":"12fba252e79298da","fromSide":"bottom","toNode":"58e8765ada46853b","toSide":"top"},
+		{"id":"ad16ed4cbc68ef54","fromNode":"58e8765ada46853b","fromSide":"bottom","toNode":"9e19ef14f5767451","toSide":"top"}
+	]
+}

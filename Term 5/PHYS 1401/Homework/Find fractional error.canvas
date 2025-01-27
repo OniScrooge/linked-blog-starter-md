@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"34fccc85f628cd17","x":-340,"y":-320,"width":610,"height":220,"color":"2","type":"text","text":"# If the theoretical value of a quantity is 3.142, and the calculated value is 3.16, what is the fractional error? write your answer to two significant figures."},
+		{"id":"b16e1ffa7a5e2b95","x":-880,"y":-100,"width":520,"height":150,"color":"5","type":"text","text":"# Fractional Error Formula\n$$Fractional Error=\\frac{\\mid Calculated Value - Theoretical Value\\mid}{Theoretical Value}$$"},
+		{"id":"154442f880e9262c","type":"text","text":"Given:\n- Theoretical Value(T) = 3.142\n- Calculated Value (C) = 3.16\n\nPlug in: $$\\mid 3.16-3.142\\mid=0.018$$\nDivide by Theoretical Value: $$\\frac{0.018}{3.142}\\approx 0.00573$$","x":-340,"y":50,"width":610,"height":330,"color":"2"},
+		{"id":"b140815d95c2eb8c","x":-225,"y":460,"width":380,"height":120,"color":"4","type":"text","text":"To two significant figures: $$0.00573\\approx 0.0057$$"}
+	],
+	"edges":[
+		{"id":"1f9d302a22eea670","fromNode":"34fccc85f628cd17","fromSide":"left","toNode":"b16e1ffa7a5e2b95","toSide":"top"},
+		{"id":"053e8ba4ed78c87d","fromNode":"154442f880e9262c","fromSide":"bottom","toNode":"b140815d95c2eb8c","toSide":"top"},
+		{"id":"1e3afcaa82263ec8","fromNode":"b16e1ffa7a5e2b95","fromSide":"bottom","toNode":"154442f880e9262c","toSide":"top"},
+		{"id":"e596220fb38fbd5a","fromNode":"34fccc85f628cd17","fromSide":"bottom","toNode":"154442f880e9262c","toSide":"top"}
+	]
+}

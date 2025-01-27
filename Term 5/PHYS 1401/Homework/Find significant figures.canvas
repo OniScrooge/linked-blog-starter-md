@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"3f1e9c647971898f","x":-320,"y":-200,"width":560,"height":380,"color":"2","type":"text","text":"# In an experiment to determine the value of _π_, a sphere is measured to have an average value of _6.37_ cm for its diameter and an average value of _20.11_ cm for its circumference. What is the _experimental value_ of _π_ to the correct number of _significant figures_?"},
+		{"id":"bc603235ff64f07e","x":-680,"y":180,"width":325,"height":163,"color":"5","type":"text","text":"# Circumference of a circle\n$C=\\pi*d$"},
+		{"id":"9b4d9b89bf8f97b8","x":-320,"y":380,"width":560,"height":360,"color":"2","type":"text","text":"Take circumference formula: $$C=\\pi*d$$\nRearrange: $$\\pi=C*d$$\n- C = 20.11cm\n- d = 6.37cm\n\nCalculate: $$\\pi=\\frac{20.11}{6.37}=3.15698$$\n\n"},
+		{"id":"b630e6fcb9d0796c","x":-320,"y":840,"width":560,"height":240,"color":"4","type":"text","text":"# Significant figures\n\n- 3.15698\n\nSince this was __division__ and the __largest__ number of significant figures is __4__, use the same for your answer.\n$$3.157$$"}
+	],
+	"edges":[
+		{"id":"eac8c2b9fb1ec115","fromNode":"3f1e9c647971898f","fromSide":"left","toNode":"bc603235ff64f07e","toSide":"top"},
+		{"id":"3a57f8eda6e1245a","fromNode":"3f1e9c647971898f","fromSide":"bottom","toNode":"9b4d9b89bf8f97b8","toSide":"top"},
+		{"id":"40dd489f0deb410f","fromNode":"bc603235ff64f07e","fromSide":"bottom","toNode":"9b4d9b89bf8f97b8","toSide":"top"},
+		{"id":"72dc081040dabd95","fromNode":"9b4d9b89bf8f97b8","fromSide":"bottom","toNode":"b630e6fcb9d0796c","toSide":"top"}
+	]
+}

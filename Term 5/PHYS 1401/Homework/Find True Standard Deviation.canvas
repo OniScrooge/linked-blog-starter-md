@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"30a8d547460d4cd8","x":-300,"y":-240,"width":640,"height":240,"color":"2","type":"text","text":"# In an experiment to measure the value of pi, the following results are obtained for pi: $3.14,3.11,3.20,3.06,3.08$. Calculate the: _True Standard Deviation_. (write your answer to two significant figures)"},
+		{"id":"9b8285e389ff2d90","x":-760,"y":0,"width":420,"height":280,"color":"5","type":"text","text":"# True Standard Deviation\n$$σ=\\sqrt{ \\frac{\\sum(x_{i}-μ)^2}{N} }$$\n- $x_{i}$ Each data value\n- μ Mean of the data\n- $N$ Total number of values\n- $\\sigma$ True Standard Deviation"},
+		{"id":"d2d8417e27a2ebfe","x":-300,"y":316,"width":640,"height":564,"color":"2","type":"text","text":"Find the Mean: $$\\frac{3.14+3.11+3.20+3.06+3.08}{5}=3.118$$\nCalculate Squared Deviations: \n- $(3.14-3.118)^2=0.000484$\n- $(3.11-3.118)^2=0.0000064$\n- $(3.20-3.118)^2=0.006724$\n- $(3.06-3.118)^2=0.003364$\n- $(3.08-3.118)^2=0.001444$\n\nSum the deviations: $$0.000484+0.000064+0.006724+0.003364+0.001444=0.01208$$\nDivide by $N$: $$\\sigma^2=\\frac{0.01208}{5}=0.002416$$\nTake the root: $\\sigma=\\sqrt{ 0.002416 }\\approx 0.04915$\n"},
+		{"id":"f2615e6b3f7c58cb","x":-180,"y":1040,"width":400,"height":140,"color":"4","type":"text","text":"3 Significant digits: $$0.04915=0.049$$"}
+	],
+	"edges":[
+		{"id":"55f23ad8727a5bb2","fromNode":"30a8d547460d4cd8","fromSide":"left","toNode":"9b8285e389ff2d90","toSide":"top"},
+		{"id":"4b152a91352e0bae","fromNode":"9b8285e389ff2d90","fromSide":"bottom","toNode":"d2d8417e27a2ebfe","toSide":"left"},
+		{"id":"d1a3d9878a70dd63","fromNode":"30a8d547460d4cd8","fromSide":"bottom","toNode":"d2d8417e27a2ebfe","toSide":"top"},
+		{"id":"1a120916383ef657","fromNode":"d2d8417e27a2ebfe","fromSide":"bottom","toNode":"f2615e6b3f7c58cb","toSide":"top"}
+	]
+}
