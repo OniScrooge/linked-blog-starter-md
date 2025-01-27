@@ -18,3 +18,7 @@ $\frac{d}{dx}(\tan(x))$::$\sec^2(x)$
 $\frac{d}{dx}(\cos(x))$::$-\sin(x)$
 
 $\frac{d}{dx}(\sin(x))$::$\cos(x)$
+
+$\frac{d}{dx}[\arccos u]$::$\frac{-u'}{\sqrt{ 1-u^2 }}$
+
+$\frac{d}{dx}[arcsec u]$::$\frac{u'}{\mid u\mid \sqrt{ u^2-1 }}$
