@@ -22,3 +22,11 @@ $\frac{d}{dx}(\sin(x))$::$\cos(x)$
 $\frac{d}{dx}[\arccos u]$::$\frac{-u'}{\sqrt{ 1-u^2 }}$
 
 $\frac{d}{dx}[arcsec u]$::$\frac{u'}{\mid u\mid \sqrt{ u^2-1 }}$
+
+$\frac{d}{dx}[\arctan u]$::$\frac{u'}{1+u^2}$
+
+$\frac{d}{dx}[\arcsin u]$::$\frac{u'}{\sqrt{ 1-u^2 }}$
+
+$\frac{d}{dx}[arccsc u]$::$\frac{-u'}{|u|\sqrt{ u^2-1 }}$
+
+$\frac{d}{dx}[arccot u]$::$\frac{-u'}{1+u^2}$
