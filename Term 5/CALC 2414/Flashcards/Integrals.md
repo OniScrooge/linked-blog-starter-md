@@ -26,3 +26,9 @@ $\int \sec^2(x)dx$::$\tan(x)+c$
 $\int \sin(x)dx$::$-\cos(x)+c$
 
 $\int \cos(x)dx$::$\sin(x)+c$
+
+$\int \frac{du}{\sqrt{ a^2-u^2 }} \, dx$::$\arcsin\frac{u}{a}+c$
+
+$\int \frac{du}{a^2+u^2} \, dx$::$\frac{1}{a}\arctan \frac{u}{a}+c$
+
+$\int \frac{du}{u\sqrt{ u^2-a^2 }} \, dx$::$\frac{1}{a}arcsec \frac{\mid u\mid}{a}+c$
