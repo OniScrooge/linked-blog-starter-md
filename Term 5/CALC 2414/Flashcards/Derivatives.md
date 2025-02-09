@@ -1,15 +1,35 @@
 #Derivatives
+$\frac{d}{dx}c'$::0
+
+$\frac{d}{dx}[f(x)+g(x)]'$::$f'(x)+g'(x)$
+
+$\frac{d}{dx}[f(x)g(x)]'$::$f(x)g'(x)+f'(x)g(x)$
+
+$\frac{d}{dx}[f(g(x))]'$=$f'(g(x))g'(x)$
+
+$\frac{d}{dx}[c*f(x)]'$::$c*f'(x)$
+
+$\frac{d}{dx}[f(x)-g(x)]'$::$f'(x)-g'(x)$
+
+$\frac{d}{dx}\left[ \frac{f(x)}{g(x)} \right]'$::$\frac{g(x)f'(x)-f(x)g'(x)}{[g(x)]^2}$
+
+$\frac{d}{dx}(x^n)'$::$nx^{n-1}$
+
 $\frac{d}{dx}(\ln u)$::$\frac{du}{u}$ or $\frac{u'}{u}$
 <!--SR:!2025-02-07,2,230-->
 
-$\frac{d}{dx}(\ln x)$::$\frac{1}{x}$
+$\frac{d}{dx}(\ln |x|)'$::$\frac{1}{x}$
 <!--SR:!2025-02-07,2,230-->
 
 $\frac{d}{dx}(e^u)$::$e^udu$
 <!--SR:!2025-02-06,1,210-->
 
-$\frac{d}{dx}(e^x)$::$e^x(1)$
+$\frac{d}{dx}(e^x)$::$e^x$
 <!--SR:!2025-02-07,2,230-->
+
+$\frac{d}{dx}[a^x]'$::$a^x\ln a$
+
+$\frac{d}{dx}[\log_{a}x]'$::$\frac{1}{x\ln a}$
 
 $\frac{d}{dx}(\cot(x))$::$-\csc^2(x)$
 <!--SR:!2025-02-06,1,210-->
