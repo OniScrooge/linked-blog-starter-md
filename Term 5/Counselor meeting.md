@@ -1,0 +1,5 @@
+- March 27th 10am - 2pm
+- Get flyer from Syeda
+- Summer registration opens March
+- Make sure to start the transfer process in March, cause it takes time and there could be surprises, if you want to start in Fall
+- Send an email once you register for the summer Phys class

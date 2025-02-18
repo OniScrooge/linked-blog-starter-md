@@ -1,3 +1,15 @@
+# Formulas
+- _Net force_: $\sum \vec{F}_{NET}=\vec{a}*m$
+- _Vector acceleration_: $\vec{a}=\frac{\sum{\vec{F}}}{m}$ and $\frac{V}{2*D}$
+- _Force by gravity_: $F_{g}=G*\frac{m_{1}*m_{2}}{r^2}$
+- _Kinetic Friction_: $f_{k}=\mu_{k}*n=\mu_{k}*m*g*\cos(\theta)$
+- _Magnitude of Net Force_: $\sqrt{ F_{net}(x)^2+F_{net}(y)^2 }$
+- _Gravitational acceleration_: $g_{p}=G*\frac{M_{p}}{r_{p}^2}$ normally it's $9.81*\frac{1}{1}$
+- _Force by angle_: $n=m*g*\cos(\theta)$
+- _Sum of forces_: $n=m*g+m*a_{y}$
+- _Tension_: $T=\frac{m*g}{2*\cos(\theta)}$
+- 
+# General
 - These laws don't work in the extremes. _IE Quantum_
 - Contact forces:
 	- Tension of springs
@@ -29,6 +41,9 @@
 - Units of force:
 	- $1N=\frac{1kg*m}{s^2}$
 	- 1N=0.225lb
+	- 4.448N = 1lb
+	- 2000lb = 1 ton
+	- 1kg = 9.81N
 - An object can move without external forces?
 	- True, movement can be the initial before a force is applied.
 - If a single force acts on an object, the object accelerates?
@@ -53,4 +68,19 @@
 - $\vec{n}$ is the __normal force__
 	- The force a table would exert on a TV that is sitting on it
 	- $\vec{n}$ is always perpendicular to the surface
+- ![[Pasted image 20250216100035.png]]
+	- (a)
+		- The hand exerts a force to the right on the spring. Reaction: The spring exerts an equal magnitude force to the left on the hand. Action: The wall exerts a force to the left on the spring. Reaction: The spring exerts an equal magnitude force to the right on the wall. Action: Earth exerts a downward gravitational force on the spring. Reaction: The spring exerts an equal magnitude gravitational force upward on the Earth.
+	- (b)
+		- The handle exerts a force upward to the right on the wagon. Reaction: The wagon exerts an equal magnitude force downward to the left on the handle. Action: Earth exerts an upward contact force on the wagon. Reaction: The wagon exerts an equal magnitude downward contact force on the Earth. Action: Earth exerts a downward gravitational force on the wagon. Reaction: The wagon exerts an equal magnitude gravitational force upward on the Earth.
+	- (c)
+		- The player exerts a force upward to the left on the ball. Reaction: The ball exerts an equal magnitude force downward to the right on the player. Action: Earth exerts an downward gravitational force on the ball. Reaction: The ball exerts an equal magnitude gravitational force upward on the Earth.
+	- (d)
+		- _M_ exerts a gravitational force to the right on _m_. Reaction: _m_ exerts an equal magnitude gravitational force to the left on _M_.
+	- (e)
+		- The charge +_Q_ exerts an electrostatic force to the right on the charge −_q_. Reaction: The charge −_q_ exerts an equal magnitude electrostatic force to the left on the charge +_Q_.
+	- (f)
+		- The magnet exerts a force to the right on the iron. Reaction: The iron exerts an equal magnitude force to the left on the magnet.
+- __Kinetic Friction__$f_{k}=\mu_{k}n$
+	- n = normal force $m*g*\cos \theta$
 - 

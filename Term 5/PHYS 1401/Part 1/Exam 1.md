@@ -3,8 +3,7 @@
 >Derived quantities are derived from measurable quantities, like velocity being equal to distance divided by time.
 
 >[!faq]- Dimensional analysis
->$420\frac{km}{hr}=?\frac{m}{s}$
->TODO
+>$420\frac{km}{hr}=\frac{m}{km}*\frac{hr}{s}$
 
 >[!faq]- Significant figures
 >__Adding/Subtracting__ - Smallest number of decimals
@@ -43,6 +42,7 @@
 >velocity=distance/time
 
 >[!faq]- Maximum height vs maximum range
+>**The maximum height of the projectile is when the projectile reaches zero vertical velocity**. From this point the vertical component of the velocity vector will point downwards. The horizontal displacement of the projectile is called the range of the projectile and depends on the initial velocity of the object.
 
 >[!faq]- Released from rest, given time and fall, find the height it fell
 
