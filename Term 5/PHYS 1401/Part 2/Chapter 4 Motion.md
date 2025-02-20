@@ -7,8 +7,9 @@
 - _Gravitational acceleration_: $g_{p}=G*\frac{M_{p}}{r_{p}^2}$ normally it's $9.81*\frac{1}{1}$
 - _Force by angle_: $n=m*g*\cos(\theta)$
 - _Sum of forces_: $n=m*g+m*a_{y}$
-- _Tension_: $T=\frac{m*g}{2*\cos(\theta)}$
-- 
+- _Tension_: $T=m*g$
+- _Tension of two forces_ - $T=\frac{m*g}{2\cos \theta}$
+- _Tension at non-equal angles_ - $T_{2}=\frac{m*g}{\cos \theta}$,$T_{1}=m*g*\tan \theta$
 # General
 - These laws don't work in the extremes. _IE Quantum_
 - Contact forces:
@@ -83,4 +84,23 @@
 		- The magnet exerts a force to the right on the iron. Reaction: The iron exerts an equal magnitude force to the left on the magnet.
 - __Kinetic Friction__$f_{k}=\mu_{k}n$
 	- n = normal force $m*g*\cos \theta$
+- The contact between a block and a table on a perfectly level surface would create a normal force. Any imperfections in the surface would allow for atmospheric pressure to get under and negate some or all of the force.
+- _Free body diagram_ - Write out a diagram of what is happening in the problem, if the diagram is written wrong your answer will likely be wrong.
+- _Reaction forces_ - Only forces acting directly on the object matter for a _free body diagram_
+- Use the __G.U.E.S.S.__ Method
+	- G - Write down your _givens_
+	- U - Write down your _unknowns_
+	- E - Figure out which _equations_ you need
+	- S - _Solve_ for your unknowns
+	- S - _Substitute_
+- _Inclined Planes_ - Recommended to draw your free body diagram aligned to the plane. Then replace the force of gravity with its components.
+- _Friction_
+	- _Friction_ is proportional to _Normal Force_
+	- The direction is __always opposite to the direction of motion__.
+- _Static friction_ - $f_{s}\leq \mu_{s}*n$
+	- ^_static friction is less than or equal to the coefficient of static friction times normal force_
+	- If _F_ increases or decreases, so does $f_{s}$
+- _Kinetic Friction_ - $f_{k}=\mu_{k}*n$
+	- _Kinetic friction is equal to the coefficient of kinetic friction times normal force_
+	- Only acts when the object is in motion
 - 
