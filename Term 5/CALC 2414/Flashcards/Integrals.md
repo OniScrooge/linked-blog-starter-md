@@ -30,6 +30,10 @@ $\int \sec(x)\tan(x)dx$::$\sec(x)+c$
 $\int \csc (x)\cot (x)dx$::$-\csc(x)+c$
 <!--SR:!2025-02-11,1,226-->
 
+$\int \ln (u)du$::$u\ln(u)-u+c$
+
+$\int \frac{1}{u\ln(u)}du$::$\ln|\ln(u)|+c$
+
 $\int u^ndu$::$\frac{u^{n+1}}{n+1}+c,n\neq-1$
 <!--SR:!2025-02-12,2,246-->
 
