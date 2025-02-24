@@ -3,6 +3,8 @@
 - _Vector acceleration_: $\vec{a}=\frac{\sum{\vec{F}}}{m}$ and $\frac{V}{2*D}$
 - _Force by gravity_: $F_{g}=G*\frac{m_{1}*m_{2}}{r^2}$
 - _Kinetic Friction_: $f_{k}=\mu_{k}*n=\mu_{k}*m*g*\cos(\theta)$
+	- n = normal force $m*g*\cos \theta$
+	- $\mu_{k}=\frac{T\cos(\theta)}{n}$
 - _Magnitude of Net Force_: $\sqrt{ F_{net}(x)^2+F_{net}(y)^2 }$
 - _Gravitational acceleration_: $g_{p}=G*\frac{M_{p}}{r_{p}^2}$ normally it's $9.81*\frac{1}{1}$
 - _Force by angle_: $n=m*g*\cos(\theta)$
@@ -84,6 +86,7 @@
 		- The magnet exerts a force to the right on the iron. Reaction: The iron exerts an equal magnitude force to the left on the magnet.
 - __Kinetic Friction__$f_{k}=\mu_{k}n$
 	- n = normal force $m*g*\cos \theta$
+	- $\mu_{k}=\frac{T\cos(\theta)}{n}$
 - The contact between a block and a table on a perfectly level surface would create a normal force. Any imperfections in the surface would allow for atmospheric pressure to get under and negate some or all of the force.
 - _Free body diagram_ - Write out a diagram of what is happening in the problem, if the diagram is written wrong your answer will likely be wrong.
 - _Reaction forces_ - Only forces acting directly on the object matter for a _free body diagram_

@@ -1,6 +1,15 @@
 # Formulas
 - _Work_ - $F_{x}*\nabla x$ or $W=(F\cos \theta)\nabla x$ depending on direction
-- 
+- _Kinetic energy_ - $KE=\frac{1}{2}*m*v^2$
+- _Work kinetic energy theorem/Net Work_ - $W_{NET}=KE_{f}-KE_{i}=\nabla KE$
+	- Accounting for potential energy $W_{nc}=(KE_{f}-KE_{i})+(PE_{f}-PE_{i})$
+	- Accounting for friction $W_{nc}=(KE_{f}-KE_{i})+(PE_{f}-PE_{i})+(PE_{sf}-PE_{si})$
+- _Calorie_ = $\frac{W_{NET}}{4186}$
+- _Hooke's Law_ - $F_{s}=-k*x$
+- _Elastic potential energy_ - $PE_{s}=\frac{1}{2}*k*x^2$
+	- $k=\frac{N}{m}$
+- _Power_ - $P=\frac{W}{t}=F*V$
+- _Instantaneous power_ - $P=F*V$
 
 # Content
 - Forms of energy
