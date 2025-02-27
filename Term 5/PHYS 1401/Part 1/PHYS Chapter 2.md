@@ -1,8 +1,8 @@
 # Summary
 - Formulas:
-	- $V_{f}=V_{i}+at$
-	- $V_{f}^2=V_{i}^2+2a\nabla s$
-	- $\nabla s=V_{i}(t)+\frac{1}{2}at^2$
+	- $V_{f}=V_{i}+a*t$
+	- $V_{f}^2=V_{i}^2+2*a*\nabla s$
+	- $\nabla s=V_{i}(t)+\frac{1}{2}*a*t^2$
 	- $\nabla s=\frac{1}{2}(V_{f}+V_{i})t$
 - Nomenclature:
 	- $\nabla x=$ __Displacement__
@@ -12,7 +12,7 @@
 
 Prev -
 
-Next -
+Next - [[PHYS Chapter 3 - Two Dimensional Motion]]
 
 # Content
 

@@ -12,6 +12,12 @@
 - _Tension_: $T=m*g$
 - _Tension of two forces_ - $T=\frac{m*g}{2\cos \theta}$
 - _Tension at non-equal angles_ - $T_{2}=\frac{m*g}{\cos \theta}$,$T_{1}=m*g*\tan \theta$
+# Related
+
+Prev - [[PHYS Chapter 3 - Two Dimensional Motion]]
+
+Next - [[PHYS Chapter 5 - Energy]]
+
 # General
 - These laws don't work in the extremes. _IE Quantum_
 - Contact forces:

@@ -11,6 +11,12 @@
 - _Power_ - $P=\frac{W}{t}=F*V$
 - _Instantaneous power_ - $P=F*V$
 - __Vernier caliper__ - Used to measure linear dimensions like length, depth, and diameter.
+# Related
+
+Prev - [[PHYS Chapter 4 - Motion]]
+
+Next - [[PHYS Chapter 6 - Momentum]]
+
 # Content
 - Forms of energy
 	- Mechanical

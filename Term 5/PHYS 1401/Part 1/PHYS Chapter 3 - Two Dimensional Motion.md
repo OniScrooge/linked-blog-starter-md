@@ -5,9 +5,9 @@
 - $\vec{V}_{AB}=\vec{V}_{AE}-\vec{V}_{BE}$
 
 # Related 
-Prev - 
+Prev - [[PHYS Chapter 2]]
 
-Next - 
+Next - [[PHYS Chapter 4 - Motion]]
 # Content
 
 # References
