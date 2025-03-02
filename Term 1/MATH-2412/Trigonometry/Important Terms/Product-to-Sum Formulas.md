@@ -4,4 +4,3 @@ Product-to-Sum Formulas
 3. $$sinα cosß = \frac{1}2 ( sin(α+ß) + sin(α-ß) )$$
 4. $$cosα sinß = \frac{1}2 ( sin(α+ß) - sin(α-ß) )$$
 
-**Note: No need to memorize these**

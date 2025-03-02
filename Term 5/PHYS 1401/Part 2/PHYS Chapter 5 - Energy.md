@@ -9,7 +9,7 @@
 - _Elastic potential energy_ - $PE_{s}=\frac{1}{2}*k*x^2$
 	- $k=\frac{N}{m}$
 - _Power_ - $P=\frac{W}{t}=F*V$
-- _Instantaneous power_ - $P=F*V$
+- _Instantaneous power_ - $P=\frac{V}{F}$
 - __Vernier caliper__ - Used to measure linear dimensions like length, depth, and diameter.
 # Related
 
