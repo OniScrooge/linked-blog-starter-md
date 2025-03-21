@@ -10,7 +10,7 @@
 
 Prev - [[PHYS Chapter 5 - Energy]]
 
-Next -
+Next - [[PHYS Chapter 7 - Rotational Motion & Gravity]]
 
 # Content
 - __Momentum__ is denoted with a $\vec{p}$
