@@ -15,14 +15,16 @@
 - _Bulk Modulus_ - $\nabla P=-B\frac{\nabla V}{V_{o}}$
 	- The change in pressure is equal to the negative compressability times the change in volume by it's original volume.
 	- _B_ is always positive, and the negative sign is there since an increase in pressure means a decrease in volume
-- _Pressure and Depth_ - $P=P_{o}+\rho*g*h$
-	- Where $P_{o}$ is normal atmospheric pressure at $1.013*105Pa=14.7\frac{lb}{in^2}$
+- _Absolute Pressure_ - $P=P_{o}+\rho*g*h$
+	- Where $P_{o}$ is normal atmospheric pressure at $1.013*10^5Pa$
 	- Shape of container is irrelevant
 - _Pascal's Principle_ - $P=\frac{F_{1}}{A_{1}}=\frac{F_{2}}{A_{2}}$
 	- So if you reduce the area, you increase the force in the opposing side
 - _Gauge pressure_ - $P-P_{o}=\rho*g*h$
 - _Archimede's Principle_ - Any object partially to completely submerged  in a fluid is buoyed up by a force whose magnitude is equal to the weight of the fluid displaced by the object
-	- _Buoyant Force_ - $B=\rho_{fluid}*V_{fluid}*g=w_{fluid}$ where the buoyant force is equal to the density of the fluid times the volume of the fluid displaced times gravity is equal to the weight of the fluid.
+	- _Buoyant Force_ - $B=\rho_{fluid}*V_{object}*g=w_{fluid}$ 
+		- _SI Units_ - $N$
+	- Where the buoyant force is equal to the density of the fluid times the volume of the fluid displaced times gravity is equal to the weight of the fluid.
 - _Continuity_ - $A_{1}*v_{1}=A_{2}*v_{2}$ Where _A_ is the area and _v_ is the velocity
 - _Bernoulli's Equation_ - $P+\frac{1}{2}\rho*v^2+\rho*g*y$ is a __constant__, where the sum of the pressure, kinetic energy per unit volume, and the potential energy per unit volume has the same value at all points.
 - _Surface Tension_ - $\gamma=\frac{F}{2L}$ where the ratio of the magnitude of the surface tension force to the length along the force acts.

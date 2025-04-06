@@ -6,9 +6,8 @@
 - Understand the computer as a layered system.
 - Be able to explain the von Neumann architecture and the function of basic computer components.
 # Related
-Prev - 
 
-Next - 
+Next - [[Computer Organization - Chapter 2]]
 # Content
 
 - Computer organization
@@ -16,6 +15,7 @@ Next -
 	- How does a computer work?
 - Computer architecture
 	- Logical aspects of system implementation as seen by the programmer (e.g., instruction sets, instruction formats, data types, addressing modes).
+	- Many desktop computers utilize the _peripheral component interconnect_ bus standard in which the system augments its main bus with dedicated I/O buses using expansion slots.
 	- How do I design a computer?
 - Measurements of capacity and speed
 	- Kilo- (K) = 1 thousand = 103 and 210
@@ -90,7 +90,9 @@ Next -
 		- The capacity to carry out sequential instruction processing
 		- A single data path between the CPU and main memory
 		- This single path is known as the von Neumann bottleneck
-
+- Computers designed that have 2 buses, one for data and one for instructions, are known as _Non-Von Neumann_ architectures.
+- The organization that sets standards for photographic film and the pitch of screw threads, in addition to matters concerning computers, is the __ISO__
+- __Hot Plugging__ - The ability to add or remove devices to a computer system while it's running, with the operating system automatically recognizing the change, such as with USB devices.
 # References
 
 [[9781284261202_SLID_CH01 - Tagged.pdf]]

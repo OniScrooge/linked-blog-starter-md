@@ -1,5 +1,6 @@
 # Formulas
 - _Average Angular Speed_ - $\omega=\frac{\theta_{f}-\theta_{i}}{t_{f}-t_{i}}=\frac{\nabla \theta}{\nabla t}$ where $\omega$ is Omega
+- _Average Angular Velocity_ - $\nabla\omega=\omega_{f}-\omega_{i}$
 - _Average Angular Acceleration_ - $\alpha_{av}=\frac{\omega_{f}-\omega_{i}}{t_{f}-t_{i}}=\frac{\nabla \omega}{\nabla t}$
 - _Linear Motion with a Constant_:
 	- $v=v_{i}+a*t$
