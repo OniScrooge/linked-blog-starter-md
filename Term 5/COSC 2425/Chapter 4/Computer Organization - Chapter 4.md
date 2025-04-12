@@ -1,0 +1,135 @@
+# Formulas
+- __CPU Time__: $$\frac{seconds}{program}=\frac{instructions}{program} \times \frac{avg. cycles}{instruction} \times \frac{seconds}{cycle}$$
+
+
+# Summary
+- __CPU__
+	- Components:
+		- Control Unit (CU)
+			- Implemented using ROM (Read-Only Memory)
+		- Arithmetic Logic Unit (ARL)
+		- Registers
+			-  A type of computer memory built directly into the processor or CPU (Central Processing Unit) that is used to store and manipulate data during the execution of instructions
+			- Composed of _flip-flops_
+			- Uses bits: 8, 16, 32, 64
+			- Components:
+				- Memory Address
+				- Data
+				- Instruction
+			- Types:
+				- Program Counter (PC): The Program Counter keeps track of the memory address of the next instruction to be fetched and executed.
+				- Instruction Register (IR): The Instruction Register holds the currently fetched instruction being executed.
+				- Accumulator (ACC): The Accumulator is a general-purpose register used for arithmetic and logical operations. It stores intermediate results during calculations.
+				- General-Purpose Registers (R0, R1, R2…): These registers are used to store data during calculations and data manipulation. They can be accessed and utilized by the programmer for various purposes. 
+				- Address Registers (AR): Address Registers store memory addresses for data access or for transferring data between different memory locations.
+				- Stack Pointer (SP): The Stack Pointer points to the top of the stack, which is a region of memory used for temporary storage during function calls and other operations.
+				- Data Registers (DR): These registers store data fetched from memory or obtained from input/output operations.
+				- Status Register/Flags Register (SR): The Status Register or Flags Register contains individual bits that indicate the outcome of operations, such as carry, overflow, zero result, and others. These flags help in making decisions and controlling program flow based on the results of previous operations.
+				- Control Registers (CR): Control Registers manage various control settings and parameters related to the CPU's operation, such as interrupt handling, memory management, and system configuration.
+		- Interactions:
+			- The CU fetches an instruction from memory and places it into the instruction register.
+			- The CU decodes the instruction to determine the operation to be performed and identifies the registers involved.
+			- The CU issues control signals to select the appropriate registers and routes the data to the ALU.
+			- The ALU performs the arithmetic or logical operation on the data from the selected registers.
+			- The result of the operation is stored back into a register, based on the CU's control signals.
+	- Jobs:
+		- _Fetch_ - Retrieves data from memory into CPU register
+		- _Decode_ - Allows the processor to determine what instruction to perform, so the CPU can calculate the necessary operands and execute the instruction
+		- _Execute_ - Reads and acts on the instructions of a program
+- __Bus__ - A set of wires that acts as a shared but common _Datapath_ to connect multiple subsystems within the system. It consists of multiple lines, allowing the parallel movement of bits.
+	- Low cost
+	- Versatile
+	- Easy to add on to
+	- Only _one_ device can use the bus at a time
+	- Speed is affected by its length and number of devices sharing it
+	- Divided into master and slave categories
+	- Consists of:
+		- Data lines - Convey bits from one device to another
+		- Control lines - Determine the direction of data flow and when each device can use the bus
+		- Address lines - Determines the location of the source, or destination of the data
+- ![[Pasted image 20250412105111.png]]
+- __Clocks__ - Used to synchronize the activities of its components, every computer has at least one.
+	- __Clock frequency/Clock speed__ is measured in _hertz_(Hz), which determines the speed with which all operations are carried out.
+		- Do not confuse this with CPU performance
+	- __Clock cycle__ - The amount of time between two pulses of an _oscillator_, which is used to determine the CPU speed.
+	- Clock cycle time is the reciprocal of clock frequency
+		- Ex) an 800 MHz clock has a cycle time of 1.25 nanoseconds
+	- The amount of instructions per clock cycle depends on the number of cores in the CPU
+- __Interrupt__ - A signal emitted by a device attached to a computer or from a program within the computer. They are events that alter, or interrupt, the normal flow of execution in the system.
+	- _NOT_ carried out at various times during execution
+	- Signals sent to the CPU by external devices such as:
+		- I/O requests
+		- Arithmetic errors
+		- Arithmetic underflow/overflow
+		- Hardware malfunction
+		- User-defined break points
+		- Page faults
+		- Invalid instructions
+		- Miscellaneous errors
+	- Interrupts or terminates a service or process, and requires the OS to stop and figure out what to do.
+	- Tells the CPU to stop and execute the appropriate part of the OS
+	- __Interrupt Handler/Interrupt service routine(ISR)__ - Is a special block of code associated with a specific interrupt condition.
+- __Languages__
+	- High Level
+		- Machine dependent
+		- Easier to learn, use, and convenient for managing complex tasks
+		- Resembles English and math
+		- Ex) C++, Java, Python
+	- Assembly language
+		- Machine specific
+		- Understood directly by the processor
+		- Written in alphanumeric mnemonic codes
+	- ![[Pasted image 20250412111159.png]]
+- __MARIE__
+	- And architecture that has the following characteristics:
+		- Binary
+		- Stored program, fixed word length data and instructions
+		- 4k words of word-addressable main memory $4*1024=4096$ Bytes
+		- 16-bit data words
+		- 16-bit instructions
+			- 4 for the _opcode_
+			- 12 for the _address_
+		- Ex)
+			- If memory is _interleaved_, it means memory is implemented with _4_ banks
+		- A 16-bit _arithmetic logic unit_(ALU)
+		- Seven registers for control and data movement
+	- ![[Pasted image 20250412111502.png]]
+	- ![[Pasted image 20250412111933.png]]
+	- Load __3__
+	- This is a bit pattern for a `LOAD` instruction as it would appear in the _IR_:
+	- $$\frac{[0][0][0][1]}{opcode}\frac{[0][0][0][0][0][0][0][0][0][0][1][1]}{address}$$
+	- We see that the _opcode_ is __1__ and the address from which to load the data is _3_
+	- ![[Pasted image 20250412114046.png]]
+	- ![[Pasted image 20250412114101.png]]
+	- ![[Pasted image 20250412114115.png]]
+	- ![[Pasted image 20250412114222.png]]
+- `while` and `if` statements are examples of conditional branching instructions
+- If a computer uses micro-programmed control, the micro-program determines the instruction set for the machine. This instruction set __CAN__ be changed unless the architecture is redesigned.
+- In order to pass parameters to subprograms, a _stack_ must be implemented to support the _ISA_
+- In high-order memory interleaving, the high-order bits of the memory address are used to select the memory bank.
+- Suppose that a system uses 16-bit memory words and its memory is built from 32 1M × 8 RAM chips. How many address bits are required to uniquely identify each memory word? _64_
+- Clock skew is a problem for _synchronous buses_
+- The purpose of both hardwired control units and microprogrammed control units is to raise a series of signals that carry out operations inside a computer system.
+- During the first pass of an assembler instructions are only partially assembled
+- PC <- X is the Jump instruction
+- __Distributed Arbitration using Self-selection__ - The process whereby devices connected to a bus autonomously determine which of the devices shall have control over the bus.
+- The MIPS family of processors employs a superscalar design and NetBurst microarchitecture for improved performance.
+- MARIE has a common bus scheme, which means a number of entities share the bus.
+- A two pass assembler generally creates a symbol table during the first pass and finishes the complete translation from assembly language to machine instructions on the second.
+- The _flip-flop_ is a digital logic component that is often used in computer registers.
+- A program counter points to the memory address of the instruction that the CPU is currently executing.
+- A thread shares code and data with the parent process but has its own resources, including a stack and instruction pointer.
+- The length of a word __DOES NOT__ determine the number of bits necessary in a memory address.
+- The instructions means `StoreI X`
+	- `MAR <- X`
+	- `MBR <- M[MAR]`
+	- `MAR <- MBR`
+	- `MBR <- AC`
+	- `M[MAR] <- MBR`
+- 
+
+
+# Resources
+[[Chapter 4 - summary - Tagged.pdf]]
+[[9781284261202_SLID_CH04 - Tagged.pdf]]
+[[CPU Organization - Tagged.pdf]]

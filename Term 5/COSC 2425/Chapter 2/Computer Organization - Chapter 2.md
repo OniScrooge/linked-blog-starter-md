@@ -15,7 +15,7 @@
 - Gain familiarity with the most popular character codes.
 - Understand the concepts of error detecting and correcting codes.
 # Related
-Prev - [[Computer Organization - Chapter 1]]
+Prev - [[Computer Organization - Chapter 3]]
 
 Next - 
 # Content
