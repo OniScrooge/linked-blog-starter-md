@@ -1,0 +1,63 @@
+# Formulas
+- __Speedup__ = $\frac{n*t_{n}}{(k+n-1)t_{p}}$ Where $n$ is the number of cycles/tasks, $k$ is the stages of the pipeline, $t_{p}$ is the clock cycle(time it takes per stage), and $t_{n}$ is the time for non-pipelined to process a task.
+- __Maximum allowable memory size__ = $2^{(i-(o + r))}$ Where _i_ is the bit count of the instructions, _o_ is the bit total of the opcode found through $\log_{2}n=o$ where _n_ is the number of operations, and _r_ is the bit amount of the register field.
+# Related
+
+
+
+# Facts
+- Memory organization effects instruction format
+- "Endian" refers to the byte ordering
+- Fixed-length instructions waste space, but are fast and perform better than variable length instructions
+- Very Long Instruction Word(VLIW) is an architectural characteristic in which each instruction can specify multiple scalar operations
+- Fixed-length instructions can have varying number of operands
+- Fixed-length instructions can have varying length opcodes.
+- Various address modes are allowed for flexibility and efficiency in accessing memory and operands for instructions.
+
+# Summary
+- _Instruction formats_ differ by:
+	- Number of bits per instruction
+	- Number of operands per instruction
+	- Types of operations
+	- Type and size of operands
+- __Endians__:
+	- _Little-Endian_ - Machines where the least significant byte is followed by the most significant byte.
+	- _Big-Endian_ - Machines that store the most significant byte first followed by the least.
+	- Ex) 
+		- Big endian:
+			- Address 00 = 12
+			- Address 01 = 34
+			- Address 02 = 56
+			- Address 03 = 78
+		- Little endian:
+			- Address 00 = 78
+			- Address 01 = 56
+			- Address 02 = 43
+			- Address 03 = 12
+- __Addressing__
+	- _Immediate_ - The data is part of the instruction.
+		- ![[Pasted image 20250419130010.png]]
+	- _Direct_ - The address of the data is given in the instruction.
+		- ![[Pasted image 20250419130024.png]]
+	- _Register_ - The data is located in a register.
+		- ![[Pasted image 20250419130035.png]]
+	- _Indirect_ - Gives the address of the data in the instruction.
+	- _Register indirect_ - Uses a register to store the address of the data.
+- __CPU data storage__:
+	- _Stack_
+		- Instructions and operands are implicitly taken from the stack and cannot be accessed randomly.
+	- _Accumulator_
+		- One operand of a binary operations is implicitly in the accumulator, creates lots of bus traffic.
+	- _General purpose register_
+		- Registers are used instead of memory.
+			- Faster than accumulator
+			- Efficient implementation for compilers
+			- Longer instructions
+		- 3 Types:
+			- _Memory-memory_:  May have two or three operands in memory, allowing an instruction to perform an operation without requiring any operand to be in a register.
+			- _Register-memory_ - A mix, where at least one operand is in a register and one is in memory.
+			- _Load-store_ - Require data to be moved into registers before any operations on those data are performed.
+- __Instruction Pipelining__:
+	- Some CPUs divide the fetch-decode-execute cycle into smaller steps which can often be executed in parallel to increase throughput, this is called _instruction pipelining_, which provides instruction level parallelism (ILP).
+	- Ex) ![[Pasted image 20250419130836.png]]
+- __Instruction Set Orthogonality__ - Means that all instructions can utilize all available addressing modes and registers without any restrictions or limitations.
