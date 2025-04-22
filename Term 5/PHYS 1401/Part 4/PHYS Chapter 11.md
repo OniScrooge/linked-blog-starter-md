@@ -1,0 +1,38 @@
+# Formulas
+- __Specific Heat__ - $c=\frac{Q}{m\nabla T}$ Where _Q_ is the energy, _m_ is the mass, and $\nabla T$ is the change in temp
+	- SI unit = $\frac{J}{kg*C\degree}$
+- __Latent Heat__ - $Q=\pm m*L$ Where _L_ is the latent heat that depends on the substance and nature of the phase change
+	- Positive for adding energy, negative if energy is being removed
+	- SI Unit - $\frac{J}{kg}$
+- __Conduction__ - $P=\frac{Q}{\nabla t}=kA\frac{T_{h}-T_{c}}{L}$ Where $T_{h}-T_{c}$ is the hot object minus the colder object, _A_ is the cross-sectional area, and _k_ is the _thermal conductivity_
+- __Multiple Materials__ - $\frac{Q}{\nabla t}=A\frac{T_{h}-T_{c}}{\sum \frac{L_{i}}{K_{i}}}=\frac{A(T_{h}-T_{c})}{\sum R_{i}}$
+- __Radiation Equation__ - $P=\sigma *A*e*T^4$ Where $\sigma$ is the _Stefan-Boltzmann_ constant $5.67\times10^{-8}$, _A_ is the surface area, _e_ is the constant _emissivity_, and _T_ is the temp
+- __Energy Absorption/Emission__ - $P_{net}=\sigma *A*e*(T^4-T_{o}^4)$
+
+# Related
+- Prev - [[PHYS Chapter 10 - Thermal Dynamics]]
+
+# Facts
+- __Calorie__ - Amount of energy required to raise temp of 1g of water by 1 degree Celsius
+- __BTU__ - (British Customary Unit) Amount of energy required to raise temp of 1lb of water by 1 degree Fahrenheit
+	- 1 cal = 4.186 J
+- Energy that leaves the warmer substance equals the energy that enters the water $Q_{cold}=-Q_{hot}$
+	- Neg sign keeps consistency in the sign convention of $\nabla T$
+ - Phase changes __do not__ change the temperature of the object
+ - _Latent heat_ of fusion is $L_{f}$ and is used for melting or freezing. For vaporization, $L_{v}$ is used for boiling or condensing
+ - __Sublimination__ - The process of a substance going directly from solid to gaseous phase.
+ - Methods of heat transfer:
+	 - Conduction 
+		 - Surfaces touching, including wind/air movement
+	 - Convection
+		 - Boiling water
+		 - Radiators
+		 - Upwelling
+		 - Algal blooms
+	 - Radiation
+		 - Does not require contact
+		 - All objects radiate energy
+		 - Rate of radiation is given by _Stefan's Law_
+- When an object is in equilibrium with its surroundings, it radiates and absorbs at the same rate
+- __Ideal Absorber__ - An object that absorbs all of the energy incident on it $e=1$. Also called _black body_
+- __Ideal Reflection__ - An object that absorbs none of the energy incident on it $e=0$
