@@ -8,10 +8,10 @@
 - __Multiple Materials__ - $\frac{Q}{\nabla t}=A\frac{T_{h}-T_{c}}{\sum \frac{L_{i}}{K_{i}}}=\frac{A(T_{h}-T_{c})}{\sum R_{i}}$
 - __Radiation Equation__ - $P=\sigma *A*e*T^4$ Where $\sigma$ is the _Stefan-Boltzmann_ constant $5.67\times10^{-8}$, _A_ is the surface area, _e_ is the constant _emissivity_, and _T_ is the temp
 - __Energy Absorption/Emission__ - $P_{net}=\sigma *A*e*(T^4-T_{o}^4)$
-
+- __Energy from Work__ - $Q=\nabla U-W$
 # Related
 - Prev - [[PHYS Chapter 10 - Thermal Dynamics]]
-
+- Next - [[PHYS Chapter 12 - The Laws of Thermodynamics]]
 # Facts
 - __Calorie__ - Amount of energy required to raise temp of 1g of water by 1 degree Celsius
 - __BTU__ - (British Customary Unit) Amount of energy required to raise temp of 1lb of water by 1 degree Fahrenheit
