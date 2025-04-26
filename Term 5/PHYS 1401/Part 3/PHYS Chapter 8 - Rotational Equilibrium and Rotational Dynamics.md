@@ -8,7 +8,7 @@
 # Related
 Prev - [[PHYS Chapter 7 - Rotational Motion & Gravity]]
 
-Next - 
+Next - [[PHYS Chapter 9 - Solids and Fluids]]
 
 # Content
 - If _Net Torque_ is __0__ then the object's rate of rotation doesn't change.

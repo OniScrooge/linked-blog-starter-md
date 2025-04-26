@@ -17,8 +17,9 @@
 - _Monatomic Idea Gas_ - $U=\frac{3}{2}*n*R*T$
 - _Total Translational Kinetic Energy_ - $KE_{total}=U$
 - _Avg Kinetic Energy per Atom_ - $KE=\frac{\frac{3}{2}*R*T}{N_{A}}$
-
-
+# Related
+- Prev - [[PHYS Chapter 9 - Solids and Fluids]]
+- Next - [[PHYS Chapter 11]]
 # Facts
 - __Heat__ is the process of exchanging energy between objects with temperature differences.
 - All gases extrapolate to the same temperature at 0 pressure, which is called _Absolute Pressure_

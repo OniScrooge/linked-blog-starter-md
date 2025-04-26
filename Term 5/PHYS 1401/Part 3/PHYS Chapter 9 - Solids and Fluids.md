@@ -45,6 +45,6 @@
 # Related
 Prev - [[PHYS Chapter 8 - Rotational Equilibrium and Rotational Dynamics]]
 
-Next -
+Next - [[PHYS Chapter 10 - Thermal Dynamics]]
 
 # Content

@@ -1,7 +1,7 @@
 # Formulas
 - __Specific Heat__ - $c=\frac{Q}{m\nabla T}$ Where _Q_ is the energy, _m_ is the mass, and $\nabla T$ is the change in temp
 	- SI unit = $\frac{J}{kg*C\degree}$
-- __Latent Heat__ - $Q=\pm m*L$ Where _L_ is the latent heat that depends on the substance and nature of the phase change
+- __Latent Heat__ - $Q=\pm m*L$ Where _L_ is the latent heat capacity that depends on the substance and nature of the phase change
 	- Positive for adding energy, negative if energy is being removed
 	- SI Unit - $\frac{J}{kg}$
 - __Conduction__ - $P=\frac{Q}{\nabla t}=kA\frac{T_{h}-T_{c}}{L}$ Where $T_{h}-T_{c}$ is the hot object minus the colder object, _A_ is the cross-sectional area, and _k_ is the _thermal conductivity_
@@ -9,6 +9,7 @@
 - __Radiation Equation__ - $P=\sigma *A*e*T^4$ Where $\sigma$ is the _Stefan-Boltzmann_ constant $5.67\times10^{-8}$, _A_ is the surface area, _e_ is the constant _emissivity_, and _T_ is the temp
 - __Energy Absorption/Emission__ - $P_{net}=\sigma *A*e*(T^4-T_{o}^4)$
 - __Energy from Work__ - $Q=\nabla U-W$
+- __R-Factor__ - $R=\frac{L}{k}$
 # Related
 - Prev - [[PHYS Chapter 10 - Thermal Dynamics]]
 - Next - [[PHYS Chapter 12 - The Laws of Thermodynamics]]
