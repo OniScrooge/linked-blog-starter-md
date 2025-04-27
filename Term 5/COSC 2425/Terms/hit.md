@@ -1,0 +1,1 @@
+When the requested data resides in a given level of memory.
