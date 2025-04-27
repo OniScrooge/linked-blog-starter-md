@@ -1,0 +1,1 @@
+A small, high speed and high cost type of memory that serves as a buffer for frequently accessed data.

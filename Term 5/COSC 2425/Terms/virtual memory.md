@@ -1,0 +1,1 @@
+Non-system memory that acts as an extension to main memory

@@ -2,9 +2,8 @@
 - __Speedup__ = $\frac{n*t_{n}}{(k+n-1)t_{p}}$ Where $n$ is the number of cycles/tasks, $k$ is the stages of the pipeline, $t_{p}$ is the clock cycle(time it takes per stage), and $t_{n}$ is the time for non-pipelined to process a task.
 - __Maximum allowable memory size__ = $2^{(i-(o + r))}$ Where _i_ is the bit count of the instructions, _o_ is the bit total of the opcode found through $\log_{2}n=o$ where _n_ is the number of operations, and _r_ is the bit amount of the register field.
 # Related
-
-
-
+- Prev - [[Computer Organization - Chapter 4]]
+- Next - [[Computer Organization - Chapter 6]]
 # Facts
 - Memory organization effects instruction format
 - "Endian" refers to the byte ordering
