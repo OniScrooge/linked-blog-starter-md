@@ -1,7 +1,7 @@
 # Formulas
 - __Specific Heat__ - $c=\frac{Q}{m\nabla T}$ Where _Q_ is the energy, _m_ is the mass, and $\nabla T$ is the change in temp
 	- SI unit = $\frac{J}{kg*C\degree}$
-- __Latent Heat__ - $Q=\pm m*L$ Where _L_ is the latent heat capacity that depends on the substance and nature of the phase change
+- __Latent Heat__ - $L=\pm \frac{Q}{m}$ Where _L_ is the latent heat capacity that depends on the substance and nature of the phase change, _Q_ is the energy, and _m_ is the mass.
 	- Positive for adding energy, negative if energy is being removed
 	- SI Unit - $\frac{J}{kg}$
 - __Conduction__ - $P=\frac{Q}{\nabla t}=kA\frac{T_{h}-T_{c}}{L}$ Where $T_{h}-T_{c}$ is the hot object minus the colder object, _A_ is the cross-sectional area, and _k_ is the _thermal conductivity_
