@@ -1,0 +1,84 @@
+# Formulas
+- __Amdahl's Law__ - $S=\frac{1}{(1-f)+\left( \frac{f}{k} \right)}$ Where _S_ is the overall speedup, _f_ is the fraction of work performed by a faster component, and _k_ is the speedup of the faster component.
+- __Capacity__ - $C=S*s_{s}*S_{t}*B$ Where _S_ is the number of surfaces, $s_{s}$ is the stacks per surface, $S_{t}$ is the sectors per track, and _B_ is the bytes per sector.
+- __Rotational Delay__ - $\frac{\frac{60}{r}*\frac{1000ms}{s}}{2}$ Where _r_ is the disk rotation speed, and _s_ is second
+- __Average Access Time__ - _Rotational Delay_ + _Seek Time_
+
+# Related
+- Prev - [[Computer Organization - Chapter 6]]
+
+# Facts
+- _Disk I/O_ follows closely behind the CPU and memory in determining the overall effectiveness of a computer system.
+- RAID systems use either mirroring or striping (or a combination of both).
+- I/O channels are driven by small CPUs called I/O processors.
+- Disk drives sometimes "skip around" to allow time for the drive circuitry to process the contents of a sector prior to reading the next sector. This is called as _interleaving_.
+- _Magnetic tape_ is the oldest and most cost-effective of all mass-storage devices.
+- _Superparamagnetism_ is when the thermal properties of the disk cause the encoded magnetic grains to spontaneously change their polarity.
+- The two basic data transmission modes used by buses are serial and parallel.
+- _Attenuation_ is electrical signal loss over time or distance during data transfer.
+- Memristor memories are __NOT__ a type of volatile RAM
+- Parallel data transmission is most effective over short distances.
+- _MTTR_ is Mean Time To Repair
+- Engineers describe bus operation through clearer and precise pictures known as _timing diagrams_.
+- Disk and tape are forms of _durable_ storage.
+- Solid-state drives consist of a microcontroller and flash memory.
+- If a read/write head on a rigid disk were to touch the surface of the disk, the disk would become unusable. This condition is known as a _head crash_.
+- The extra line used for synchronization in parallel data transmission is called a _strobe_.
+- CD-ROMs are are made up of _polycarbonate_.
+- Lineal spaces between the pits in a CD-ROM are called _lands_.
+- DVDs rotate at about _2_ times the speed of CDs.
+- Large computer systems use an intelligent type of DMA interface known as an _I/O Channel_.
+- _Sectors_ are divisions of concentric circles (tracks) on disk drives.
+- A simpler and more elegant approach is memory-mapped I/O because I/O devices and main memory share the _same address space_
+- Solid state drives are built using _flash memory_.
+- Buses that require handshakes to take place every time the bus is accessed are called _asynchronous buses_.
+- The simplest way for a CPU to communicate with an I/O device is through programmed I/O
+# Lesson
+- __Amdahl's Law__ - The overall performance of a system is a result of the interaction of all of its components.
+- __I/O Control Methods/Architectures__:
+	- _Programmed I/O_ - Reserves a register for each I/O device. Each register is continually polled to detect data arrival.
+		- ![[Pasted image 20250503103219.png]]
+	- _Interrupt-driven I/O_ - Allows the CPU to do other things until I/O is requested.
+		- ![[Pasted image 20250503103308.png]]
+	- _Memory-mapped I/O_ - Shares memory address space between I/O devices and program memory.
+		- ![[Pasted image 20250503103319.png]]
+	- _Direct memory access_ - Offloads I/O processing to a special-purpose chip that takes care of the details.
+		- ![[Pasted image 20250503103606.png]]
+	- _Channel-attached I/O_ - Uses dedicated I/O processors.
+		- ![[Pasted image 20250503103644.png]]
+- __Rigid Disk Drives__ - Disk tracks are numbered from the outside edge, starting with zero.
+	- ![[Pasted image 20250503103834.png]]
+	- _Seek time_ - Time it takes for a disk arm to move into position.
+	- _Rotational Delay_ - Time it takes for the desired sector to move into position beneath the read/write head.
+	- _Access Time_ - `Seek time` + `rotational delay`
+- __Solid State Drives__ - 
+	- Access, and transfer, rates are typically 100 times faster than magnetic disk, but slower than RAM by 100,000
+	- Block-addressable
+	- Duty cycle - Between 30,000 and 1,000,000 updates to a block
+- __RAID (Redundant Array of Independent Disks)__ - Invented to address the problems of disk reliability, cost, and performance. Data is stored across many disks, with extra disks added to the array to provide error correction(redundancy).
+	- _Level 0_ - __Drive Spanning__ - Provides improved performance, but no redundancy.
+		- Data is written in blocks across the entire array
+		- Low reliability
+	- _Level 1_ - __Disk Mirroring__ - Provides 100% redundancy, and good performance.
+		- Two matched sets of disks contain the same data
+		- High cost, requires large memory space
+	- _Level 2_ - Configuration consists of a set of data drives and a set of Hamming code drives.
+		- Hamming code drives provide error correction for the data drives
+		- Poor performance, high cost
+	- _Level 3_ - Stripes bits across a set of data drives and provides a separate disk for parity
+		- Parity is the XOR of the data bits
+		- Good for personal systems, not for commercial systems
+	- _Level 4_ - Acts like adding parity disks to _Level 0_
+		- Data is written in blocks across the data disks, and a parity block is written to the redundant drive
+	- _Level 5_ - Is _RAID 4_ with distributive parity.
+		- _Distributive parity_ - Some accesses can be serviced concurrently, giving good performance and high reliability.
+	- _Level 6_ - Carries 2 levels of error protection over striped data, _Reed-Soloman_ and parity
+		- Can tolerate the loss of 2 disks
+		- Write-intensive but high fault tolerance
+	- _RAID DP_ - Employs pairs of overlapping parity blocks that provide linearly independent parity functions
+		- Can tolerate the loss of 2 disks
+		- Simple parity functions, so better performance than _Level 6_ but less than _Level 5_
+		- AKA: EVENODD, RAID 5DP, diagonal parity RAID, advanced data guarding RAID, and sometimes as RAID 6
+	- _Level 10_ - __RAID 1+0__ - Configuration that combines _disk mirroring_ and _disk striping_ to protect data.
+		- Critical, high-throughput files can be benefit from combining _RAID 0_ with _RAID 1_, called _RAID 10_
+- 
