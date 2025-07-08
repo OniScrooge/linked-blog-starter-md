@@ -17,7 +17,7 @@
 - __Page Frames of Physical Memory__ - $F=\frac{S_{pm}}{S_{p}}$ Where the $S_{pm}$ is the size of physical memory,  and $S_{p}$ is the page size.
 # Related
 - Prev - [[Computer Organization - Chapter 5]]
-- Next - 
+- Next - [[Computer Organization - Chapter 7]]
 # Facts
 - Direct mapping is set associative mapping with a set size of 1
 - Memory segmentation - external fragmentation
