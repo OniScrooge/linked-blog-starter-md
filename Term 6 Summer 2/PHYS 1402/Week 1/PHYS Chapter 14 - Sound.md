@@ -1,16 +1,27 @@
 # Formulas
-- Energy and intensity of sound waves:
+- __Energy and intensity of sound waves__:
 	- $I=\frac{P}{A}$ in which _P_ is the power, and the _A_ is the area.
-- Spherical and Plane waves:
+- __Spherical and Plane waves__:
 	- $I=\frac{P_{av}}{A}$ Where _Pav_ is the average power, and _A_ is the area.
-- Observer moving toward a source:
-	- $\lambda_{s}=\frac{v}{f_{s}}$ Where the $\lambda_{s}$ is the wavelength of the source, _v_ is the velocity, and $f_{s}$ is the frequency of the source.
-- Observer moving away from source:
-	- $f_{o}=f_{s}\left( \frac{v-v_{o}}{v} \right)$ 
-- Standing waves:
+- __Observer moving toward__ a source:
+	- $f_{o}=f_{s}\left( \frac{v+v_{o}}{v} \right)$
+- __Observer moving away__ from source:
+	- $f_{o}=f_{s}\left( \frac{v-v_{o}}{v} \right)$
+- __Intensity Level in Decibels__:
+	- $\beta=10\log\left( \frac{I}{I_{o}} \right)$ Where $\beta$ is the decibels, and _I_ is the sound intensity.
+	- $I_{o}=1.0\times 10^{-12}$
+- __Spherical wave Intensity__:
+	- $I_{1}r_{1}^2=I_{2}r_{2}^2$
+- __Standing waves__:
 	- First harmonic: $L=2\left( \frac{\lambda_{1}}{4} \right)\to\lambda_{1}=2L$
 	- Second Harmonic: $L=4\left( \frac{\lambda_{2}}{4} \right)\to \lambda_{2}$
 	- Third Harmonic: $L=6\left( \frac{\lambda_{3}}{4} \right)\to 3\left( \frac{\lambda_{3}}{2} \right)$
+- __Linear Mass Density__:
+	- $\mu=\frac{m}{L}$ Where mu is density, _m_ is mass, and _L_ is length.
+- __Wave speed__:
+	- $v=\sqrt{ T\mu }$ Where _v_ is velocity(speed), _T_ is tension, $\mu$ is density
+- __Harmonic Frequency__:
+	- $f_{n}=n*\frac{v}{2L}$ Where _f_ is the frequency, _n_ is the number of harmonics, _v_ is the velocity, and _L_ is the length.
 # Related
 - Prev [[PHYS Chapter 13 - Vibrations & Waves]]
 - Next 

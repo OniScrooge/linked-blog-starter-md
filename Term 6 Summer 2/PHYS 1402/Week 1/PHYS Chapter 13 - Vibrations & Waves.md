@@ -1,9 +1,26 @@
 # Formulas
 - $E_{o}=0$
-- $E_{m}=\frac{1}{2}kA^2$
+- __Wavelength__:
+	- $\lambda=\frac{v}{f}$ Where _v_ is the velocity(speed), and the _f_ is the frequency
+- __Speed__:
+	- $v=\omega \sqrt{ A^2-x^2 }$
+- __Maximum Speed__:
+	- $v_{max}=\sqrt{ \frac{k}{m} }*A$
+	- $v_{max}=A\omega$
+- __Potential Energy__:
+	- $PE_{s}=\frac{1}{2}kx^2$ Where _PE_ is the potential energy(elastic), _k_ is the spring force constant, and _x_ is the distance.
+- __Total Energy__:
+	- $TE_{s}=\frac{1}{2}kA^2$ Where _TE_ is the total energy, _k_ is the spring force constant, and _A_ is the amplitude.
 - $E_{n}=\frac{1}{2}mv_{n}^2+\frac{1}{2}kx^2$
+- __Tension__:
+	- $T=\frac{F}{2\sin \theta}$ Where _T_ is the tension, and _F_ is the force.
 - $\omega=\frac{2\pi}{T}$
-- $F=-k*x$ 
+- __Spring force__:
+	- $F=-k*x$ Where _F_ is the force, _k_ is the spring(of force) constant, and _x_ is the distance travelled or position.
+- __Pendulum period__:
+	- $T=2\pi \sqrt{ \frac{L}{g} }$ Where _T_ is the period, _L_ is the length, and _g_ is the acceleration by gravity specifically.
+- __Pendulum spring-mass oscillation__:
+	- $T=2\pi \sqrt{ \frac{m}{k} }$ Where _T_ is the period, _m_ is the mass, and _k_ is the spring constant.
 # Related
 - Prev [[PHYS Chapter 12 - The Laws of Thermodynamics]]
 - Next [[PHYS Chapter 14 - Sound]]
