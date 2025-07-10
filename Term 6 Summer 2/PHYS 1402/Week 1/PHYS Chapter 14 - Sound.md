@@ -1,0 +1,46 @@
+# Formulas
+- __Energy and intensity of sound waves__:
+	- $I=\frac{P}{A}$ in which _P_ is the power, and the _A_ is the area.
+- __Spherical and Plane waves__:
+	- $I=\frac{P_{av}}{A}$ Where _Pav_ is the average power, and _A_ is the area.
+- Observer moving toward a source:
+	- $f_{o}=f_{s}\left( \frac{v+v_{o}}{v} \right)$ Where the _o_ is the observer
+- Observer moving away from source:
+	- $f_{o}=f_{s}\left( \frac{v-v_{o}}{v} \right)$ 
+- Standing waves:
+	- First harmonic: $L=2\left( \frac{\lambda_{1}}{4} \right)\to\lambda_{1}=2L$
+	- Second Harmonic: $L=4\left( \frac{\lambda_{2}}{4} \right)\to \lambda_{2}$
+	- Third Harmonic: $L=6\left( \frac{\lambda_{3}}{4} \right)\to 3\left( \frac{\lambda_{3}}{2} \right)$
+- Decibel:
+	- $\beta=10\log\left( \frac{I_{i}}{I_{o}} \right)$ Where $I_{o}=1*10^{-12}$
+- Interference:
+	- Constructive: $r_{2}-r_{1}=n\lambda$
+	- Destructive: $r_{2}-r_{1}=\left( n+\frac{1}{2} \right)\lambda$
+- __Observer moving toward__ a source:
+	- $f_{o}=f_{s}\left( \frac{v+v_{o}}{v} \right)$
+- __Observer moving away__ from source:
+	- $f_{o}=f_{s}\left( \frac{v-v_{o}}{v} \right)$
+- __Intensity Level in Decibels__:
+	- $\beta=10\log\left( \frac{I}{I_{o}} \right)$ Where $\beta$ is the decibels, and _I_ is the sound intensity.
+	- $I_{o}=1.0\times 10^{-12}$
+- __Spherical wave Intensity__:
+	- $I_{1}r_{1}^2=I_{2}r_{2}^2$
+- __Standing waves__:
+	- First harmonic: $L=2\left( \frac{\lambda_{1}}{4} \right)\to\lambda_{1}=2L$
+	- Second Harmonic: $L=4\left( \frac{\lambda_{2}}{4} \right)\to \lambda_{2}$
+	- Third Harmonic: $L=6\left( \frac{\lambda_{3}}{4} \right)\to 3\left( \frac{\lambda_{3}}{2} \right)$
+- __Linear Mass Density__:
+	- $\mu=\frac{m}{L}$ Where mu is density, _m_ is mass, and _L_ is length.
+- __Wave speed__:
+	- $v=\sqrt{ T\mu }$ Where _v_ is velocity(speed), _T_ is tension, $\mu$ is density
+- __Harmonic Frequency__:
+	- $f_{n}=n*\frac{v}{2L}$ Where _f_ is the frequency, _n_ is the number of harmonics, _v_ is the velocity, and _L_ is the length.
+# Related
+- Prev [[PHYS Chapter 13 - Vibrations & Waves]]
+- Next [[PHYS Chapter 15 - Electric Forces and Fields]]
+# Facts
+- __ALL__ of it is just electromagnetic _waves_:
+	- Sounds
+	- Light
+	- Etc
+- __Speed of sound__ - 343 m/s
