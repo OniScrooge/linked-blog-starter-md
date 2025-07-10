@@ -7,10 +7,13 @@
 	- $f_{o}=f_{s}\left( \frac{v+v_{o}}{v} \right)$ Where the _o_ is the observer
 - Observer moving away from source:
 	- $f_{o}=f_{s}\left( \frac{v-v_{o}}{v} \right)$ 
-- Standing waves:
+- __Standing waves__:
 	- First harmonic: $L=2\left( \frac{\lambda_{1}}{4} \right)\to\lambda_{1}=2L$
 	- Second Harmonic: $L=4\left( \frac{\lambda_{2}}{4} \right)\to \lambda_{2}$
 	- Third Harmonic: $L=6\left( \frac{\lambda_{3}}{4} \right)\to 3\left( \frac{\lambda_{3}}{2} \right)$
+		- __Closed cylinder__:
+			- First: $\lambda=\frac{v}{4L}$
+			- Third: $n\frac{v}{4L}$
 - Interference:
 	- Constructive: $r_{2}-r_{1}=n\lambda$
 	- Destructive: $r_{2}-r_{1}=\left( n+\frac{1}{2} \right)\lambda$
@@ -24,13 +27,13 @@
 - __Spherical wave Intensity__:
 	- $I_{1}r_{1}^2=I_{2}r_{2}^2$
 - __Standing waves__:
-	- First harmonic: $L=2\left( \frac{\lambda_{1}}{4} \right)\to\lambda_{1}=2L$
+	- First harmonic: $L=2\left( \frac{\lambda_{1}}{4} \right)\to \frac{\lambda_{1}}{2}$
 	- Second Harmonic: $L=4\left( \frac{\lambda_{2}}{4} \right)\to \lambda_{2}$
 	- Third Harmonic: $L=6\left( \frac{\lambda_{3}}{4} \right)\to 3\left( \frac{\lambda_{3}}{2} \right)$
 - __Linear Mass Density__:
 	- $\mu=\frac{m}{L}$ Where mu is density, _m_ is mass, and _L_ is length.
 - __Wave speed__:
-	- $v=\sqrt{ T\mu }$ Where _v_ is velocity(speed), _T_ is tension, $\mu$ is density
+	- $v=\sqrt{ \frac{T}{\mu} }$ Where _v_ is velocity(speed), _T_ is tension, $\mu$ is density
 - __Harmonic Frequency__:
 	- $f_{n}=n*\frac{v}{2L}$ Where _f_ is the frequency, _n_ is the number of harmonics, _v_ is the velocity, and _L_ is the length.
 # Related
