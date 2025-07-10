@@ -11,8 +11,6 @@
 	- First harmonic: $L=2\left( \frac{\lambda_{1}}{4} \right)\to\lambda_{1}=2L$
 	- Second Harmonic: $L=4\left( \frac{\lambda_{2}}{4} \right)\to \lambda_{2}$
 	- Third Harmonic: $L=6\left( \frac{\lambda_{3}}{4} \right)\to 3\left( \frac{\lambda_{3}}{2} \right)$
-- Decibel:
-	- $\beta=10\log\left( \frac{I_{i}}{I_{o}} \right)$ Where $I_{o}=1*10^{-12}$
 - Interference:
 	- Constructive: $r_{2}-r_{1}=n\lambda$
 	- Destructive: $r_{2}-r_{1}=\left( n+\frac{1}{2} \right)\lambda$
