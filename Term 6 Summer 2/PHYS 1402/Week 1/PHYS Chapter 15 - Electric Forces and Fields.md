@@ -16,7 +16,7 @@
 		- $\vec{E}A\cos\phi$ Where the magnitude times the area times the angle it is going
 # Related
 - Prev [[PHYS Chapter 14 - Sound]]
-- Next
+- Next [[PHYS Chapter 16 Electrical Energy and Capacitance]]
 # Facts
 - __Charge__ - Remember, "_Opposites attract_"
 - __Electrons__ are waves
