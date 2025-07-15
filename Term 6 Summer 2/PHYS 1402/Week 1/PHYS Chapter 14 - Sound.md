@@ -3,10 +3,6 @@
 	- $I=\frac{P}{A}$ in which _P_ is the power, and the _A_ is the area.
 - __Spherical and Plane waves__:
 	- $I=\frac{P_{av}}{A}$ Where _Pav_ is the average power, and _A_ is the area.
-- Observer moving toward a source:
-	- $f_{o}=f_{s}\left( \frac{v+v_{o}}{v} \right)$ Where the _o_ is the observer
-- Observer moving away from source:
-	- $f_{o}=f_{s}\left( \frac{v-v_{o}}{v} \right)$ 
 - __Standing waves__:
 	- First harmonic: $L=2\left( \frac{\lambda_{1}}{4} \right)\to\lambda_{1}=2L$
 	- Second Harmonic: $L=4\left( \frac{\lambda_{2}}{4} \right)\to \lambda_{2}$
@@ -14,7 +10,7 @@
 		- __Closed cylinder__:
 			- First: $\lambda=\frac{v}{4L}$
 			- Third: $n\frac{v}{4L}$
-- Interference:
+- __Interference__:
 	- Constructive: $r_{2}-r_{1}=n\lambda$
 	- Destructive: $r_{2}-r_{1}=\left( n+\frac{1}{2} \right)\lambda$
 - __Observer moving toward__ a source:
@@ -27,9 +23,16 @@
 - __Spherical wave Intensity__:
 	- $I_{1}r_{1}^2=I_{2}r_{2}^2$
 - __Standing waves__:
-	- First harmonic: $L=2\left( \frac{\lambda_{1}}{4} \right)\to \frac{\lambda_{1}}{2}$
-	- Second Harmonic: $L=4\left( \frac{\lambda_{2}}{4} \right)\to \lambda_{2}$
-	- Third Harmonic: $L=6\left( \frac{\lambda_{3}}{4} \right)\to 3\left( \frac{\lambda_{3}}{2} \right)$
+	- First Harmonic: $f_{1}=\frac{1}{2L}\sqrt{ \frac{F}{\mu} }$
+	- Second Harmonic: $f_{2}=2\left( \frac{v}{2L} \right)\to 2f_{1}$
+	- Third Harmonic: $f_{3}=\frac{3v}{2L}\to 3f_{1}$
+	- __Lengths__:
+		- First Harmonic: $L=2\left( \frac{\lambda_{1}}{4} \right)\to \frac{\lambda_{1}}{2}$
+		- Second Harmonic: $L=4\left( \frac{\lambda_{2}}{4} \right)\to \lambda_{2}$
+		- Third Harmonic: $L=6\left( \frac{\lambda_{3}}{4} \right)\to 3\left( \frac{\lambda_{3}}{2} \right)$
+- __Nodes__:
+	- $Node = \frac{\lambda}{2}* n$
+	- $Antinode = \frac{\lambda}{4} + \frac{\lambda}{2} * n$
 - __Linear Mass Density__:
 	- $\mu=\frac{m}{L}$ Where mu is density, _m_ is mass, and _L_ is length.
 - __Wave speed__:
@@ -45,3 +48,5 @@
 	- Light
 	- Etc
 - __Speed of sound__ - 343 m/s
+- _Destructive interference_ occurs at odd multiples of half wavelengths. 
+	- Destructive interference = .5 * Wavelength
