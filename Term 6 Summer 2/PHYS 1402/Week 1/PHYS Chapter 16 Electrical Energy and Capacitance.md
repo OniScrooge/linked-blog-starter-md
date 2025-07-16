@@ -19,7 +19,7 @@
 	- $magnitude = \frac{v}{m}$ 
 # Related
 - Prev [[PHYS Chapter 15 - Electric Forces and Fields]]
-- Next
+- Next [[PHYS Chapter 17 Current and Resistance]]
 # Facts
 - When given branching capacitors, solve the total for one in its designation, then add the branch.
 - __kV__ - _k_ means $10^3$, so .29kv means 290V
