@@ -1,0 +1,31 @@
+# Formulas
+- __Internal Resistance__:
+	- $r=\frac{E-\nabla V}{I}$ Where _E_ is the emf, $\nabla V$ is the terminal voltage, and _I_ is the amperage.
+- __Load Resistance__:
+	- $R=\frac{E-Ir}{I}$ Where _E_ is the emf, _I_ is the amperage, and _r_ is the internal resistance.
+- __Series Resistance__:
+	- $R_{eq}=R_{1}+R_{2}+\dots+R_{n}$ Where _R_ is the resistance of the resistor.
+- __Parallel Resistance:__
+	- $\frac{1}{R_{eq}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\dots+\frac{1}{R_{n}}$ Where _R_ is the resistance of the resistor.
+- __Time Constant:__
+	- $\tau=\frac{-t}{\ln(c)}$ Where _t_ is the time it takes for the capacitor to charge, and _c_ is the percentage charged(converted to a decimal).
+- __Resistance of a Capacitor:__
+	- $R=\frac{\tau}{C\times10^{-4}}$ Where $\tau$ is the RC time constant, and _C_ is the capacitance.
+- __Capacitor Max Charge:__
+	- $Q=C*E$ Where _C_ is the capacitance(converted like above), and _E_ is the voltage source.
+- __Kirchhoff's Loop Rule__:
+	- $E-IR=0$ Where _E_ is the emf, _I_ is the amperage, and _R_ is the resistance.
+	- $E-IR-\nabla V_{cap}=0$
+- __Potential Difference one time Constant:__
+	- $\nabla V_{cap}=E(1-e^{-1})$ Where _E_ is the emf.
+- __Resistance from Total Power:__
+	- $R=\frac{\nabla V^2}{P_{t}}$ Where $\nabla V$ is the voltage, and _Pt_ is the wattage.
+- __Max Power:__
+	- $P_{max}=I_{max}*\nabla V$ Where _I_ is the max amperage, and _V_ is the voltage.
+- __Magnitude of current through resistor:__
+	- 
+# Related
+- Prev [[PHYS Chapter 17 Current and Resistance]]
+- Next 
+# Facts
+- Finding the allowable wattage for a device. Just take the _Max Power_ and subtract the devices connected.
