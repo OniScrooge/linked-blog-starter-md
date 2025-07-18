@@ -7,9 +7,10 @@
 		- $F=k_{e}\frac{|q_{1}||q_{2}|}{r^2}$
 - __Electric charge__:
 	- $\vec{E}=\frac{q_{1}q_{2}}{r^2}$
-- __Force between electric field__:
+- __Force/magnitude between electric field__:
 	- $\vec{F}=q\vec{E}$ Where if _q_ is positive the forces are in the same direction, if negative they are in opposite directions.
-	- $F_{q1\to q2}=k*\left( \frac{q_{1}q_{2}}{r^2} \right)$
+- __Electric force between particles:__
+	- $F_{q1\to q2}=k*\left( \frac{q_{1}q_{2}}{r^2} \right)$ Where _k_ is the Coulomb's constant, _q_ is the charge of the particle(that needs to be converted $q\times 10^{-9}$), and _r_ is the distance between the particles.
 - __Electric Flux__:
 	- $\phi=\vec{E}\vec{n}A$ Electric vector, times normal vector, times the area.
 	- __Cylinder__:

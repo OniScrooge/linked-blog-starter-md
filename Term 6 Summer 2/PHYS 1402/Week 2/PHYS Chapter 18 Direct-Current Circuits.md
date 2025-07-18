@@ -6,7 +6,7 @@
 - __Series Resistance__:
 	- $R_{eq}=R_{1}+R_{2}+\dots+R_{n}$ Where _R_ is the resistance of the resistor.
 - __Parallel Resistance:__
-	- $\frac{1}{R_{eq}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\dots+\frac{1}{R_{n}}$ Where _R_ is the resistance of the resistor.
+	- $\frac{1}{R_{eq}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\dots+\frac{1}{R_{n}}$ Where _R_ is the resistance of the resistor. After calculating you must invert your answer by dividing 1 by it.
 - __Time Constant:__
 	- $\tau=\frac{-t}{\ln(c)}$ Where _t_ is the time it takes for the capacitor to charge, and _c_ is the percentage charged(converted to a decimal).
 - __Resistance of a Capacitor:__
@@ -23,9 +23,16 @@
 - __Max Power:__
 	- $P_{max}=I_{max}*\nabla V$ Where _I_ is the max amperage, and _V_ is the voltage.
 - __Magnitude of current through resistor:__
-	- 
+	- $I=\left( \frac{Q_{0}}{\tau} \right)e^{-t/\tau}$ Where _Q_ is the initial charge, $\tau$ is the time constant, _t_ is the time when a certain current is through the resistor, and _e_ is e on the calculator.
+- __Voltage:__
+	- $V=IR$ Where _I_ is the amperage, and _R_ is the series/parallel resistance.
+- __Power:__
+	- $P=IV$ Where _I_ is the amperage, and _V_ is the total voltage.
 # Related
 - Prev [[PHYS Chapter 17 Current and Resistance]]
 - Next 
 # Facts
 - Finding the allowable wattage for a device. Just take the _Max Power_ and subtract the devices connected.
+- The $nF$ of a capacitor needs to be converted $nF\times 10^{-9}$
+- Resistors _r_ need to be converted with $r\times 10^3$
+- 
