@@ -30,7 +30,7 @@
 	- $P=IV$ Where _I_ is the amperage, and _V_ is the total voltage.
 # Related
 - Prev [[PHYS Chapter 17 Current and Resistance]]
-- Next 
+- Next [[PHYS Chapter 19 Magnetism]]
 # Facts
 - Finding the allowable wattage for a device. Just take the _Max Power_ and subtract the devices connected.
 - The $nF$ of a capacitor needs to be converted $nF\times 10^{-9}$
