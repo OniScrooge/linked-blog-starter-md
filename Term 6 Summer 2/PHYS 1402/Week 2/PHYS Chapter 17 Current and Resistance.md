@@ -19,6 +19,7 @@
 	- $I=\frac{V}{R}$ Where _I_ is the current, _V_ is the voltage, and _R_ is the resistance.
 - __Temperature Variation of Resistance:__
 	- $R=R_{0}[1+\alpha(T-T_{0})]$ Where _R_ is the resistance, _Ro_ is the initial resistance, _a_ is the temperature coefficient of resistivity, and _T_ is the current temperature __IN CELCIUS__.
+	- $R=\rho \frac{l}{A}$
 # Related
 - Prev [[PHYS Chapter 16 Electrical Energy and Capacitance]]
 - Next [[PHYS Chapter 18 Direct-Current Circuits]]
