@@ -8,6 +8,6 @@
 	- $\nabla V=Blv$ Where _B_ is the magnitude of the magnetic field, _l_ is the length, and _v_ is the initial velocity.
 # Related
 - Prev [[PHYS Chapter 19 Magnetism]]
-- 
+- Next [[PHYS Chapter 21 Alternating-Current Circuits and Electromagnetic Waves]]
 # Facts
 - Remember to convert to meters.
