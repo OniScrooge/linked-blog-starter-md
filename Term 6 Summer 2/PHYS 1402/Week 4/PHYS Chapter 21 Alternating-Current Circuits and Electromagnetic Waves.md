@@ -13,6 +13,6 @@
 -  
 # Related
 - Prev [[PHYS Chapter 20 Induced Voltages and Inductance]]
-- Next 
+- Next [[PHYS Chapter 22 Reflection and Refraction of Light]]
 # Facts
 - 
